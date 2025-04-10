@@ -11,7 +11,7 @@ dataSet[dataSetVersion].options = [
 			{ name: "Sound Voltex Konasute-Music Packs", key: "SDVX-KO-MP", checked: false }, 				
 			{ name: "beatmania IIDX", key: "IIDX", checked: false },
 			{ name: "Dance Dance Revolution", key: "DDR", checked: false },
-			{ name: "Pop n'Music", key: "POPN", checked: false },
+			{ name: "Pop'n Music", key: "POPN", checked: false },
 			{ name: "Gitadora", key: "GITA", checked: false },
 			{ name: "Jubeat", key: "JUBE", checked: false }
 		]
