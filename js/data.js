@@ -22,4 +22,4 @@ let dataSetVersion = '2025-04-09';
  */
 //const imageRoot = 'https://imgur.com/';
 //const imageRoot = 'http://localhost:8080/bemani-sorter/assets/jackets/';
-const imageRoot = 'https://throdax.github.io/assets/jackets/
+const imageRoot = 'https://throdax.github.io/assets/jackets/'
