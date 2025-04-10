@@ -3155,7 +3155,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Take me higher",
-        "img": "DDR/TAKE_ME_HiGHER.png",
+        "img": "DDR/TAKE_ME_HIGHER.png",
         "opts": {
             "game": [
                 "DDR",
