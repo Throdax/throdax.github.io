@@ -21,4 +21,5 @@ let dataSetVersion = '2025-04-09';
  * Image root, will be appended to the start of every image URL.
  */
 //const imageRoot = 'https://imgur.com/';
-const imageRoot = 'http://localhost:8080/bemani-sorter/assets/jackets/';
+//const imageRoot = 'http://localhost:8080/bemani-sorter/assets/jackets/';
+const imageRoot = 'https://throdax.github.io/assets/jackets/
