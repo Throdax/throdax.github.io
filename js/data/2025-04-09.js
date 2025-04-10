@@ -21,7 +21,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
     {
         "name": "Adrenaline (U1 overground)",
-        "img": "DDR/konami.png",
+        "img": "DDR/adrenaline_(u1_overground).png",
         "opts": {
             "game": [
                 "DDR",
@@ -40,7 +40,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hoshikuzu no kiroku",
-        "img": "DDR/konami.png",
+        "img": "DDR/hoshikuzu_no_kiroku.png",
         "opts": {
             "game": [
                 "DDR",
@@ -59,7 +59,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "LOVE EAST",
-        "img": "DDR/konami.png",
+        "img": "DDR/love_east.png",
         "opts": {
             "game": [
                 "DDR",
@@ -69,7 +69,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Daikenkai",
-        "img": "DDR/konami.png",
+        "img": "DDR/daikenkai.png",
         "opts": {
             "game": [
                 "DDR",
@@ -115,7 +115,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "LOVE IS ORANGE",
-        "img": "DDR/konami.png",
+        "img": "DDR/love_is_orange.png",
         "opts": {
             "game": [
                 "DDR",
@@ -125,7 +125,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "PARANOIA survivor MAX",
-        "img": "DDR/konami.png",
+        "img": "DDR/paranoia_survivor_max.png",
         "opts": {
             "game": [
                 "DDR",
@@ -171,7 +171,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "STERLING SILVER",
-        "img": "DDR/konami.png",
+        "img": "DDR/sterling_silver.png",
         "opts": {
             "game": [
                 "DDR",
@@ -181,7 +181,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SCHWARZSCHILD FIELD",
-        "img": "DDR/konami.png",
+        "img": "DDR/schwarzschild_field.png",
         "opts": {
             "game": [
                 "DDR",
@@ -191,7 +191,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "MAX 360",
-        "img": "DDR/konami.png",
+        "img": "DDR/max_360.png",
         "opts": {
             "game": [
                 "DDR",
@@ -201,7 +201,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Beautiful receipt",
-        "img": "DDR/konami.png",
+        "img": "DDR/beautiful_receipt.png",
         "opts": {
             "game": [
                 "DDR",
@@ -230,7 +230,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Otogibanashi ni makugire wo",
-        "img": "DDR/konami.png",
+        "img": "DDR/otogibanashi_ni_makugire_wo.png",
         "opts": {
             "game": [
                 "DDR",
@@ -240,7 +240,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Colorful pastel",
-        "img": "DDR/konami.png",
+        "img": "DDR/colorful_pastel.png",
         "opts": {
             "game": [
                 "DDR",
@@ -259,7 +259,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Toy boxer",
-        "img": "DDR/konami.png",
+        "img": "DDR/toy_boxer.png",
         "opts": {
             "game": [
                 "DDR",
@@ -280,7 +280,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "1116",
-        "img": "DDR/konami.png",
+        "img": "DDR/1116.png",
         "opts": {
             "game": [
                 "DDR",
@@ -291,7 +291,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Come to Life",
-        "img": "DDR/konami.png",
+        "img": "DDR/come_to_life.png",
         "opts": {
             "game": [
                 "DDR",
@@ -310,7 +310,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Bad Routine",
-        "img": "DDR/konami.png",
+        "img": "DDR/bad_routine.png",
         "opts": {
             "game": [
                 "DDR",
@@ -329,7 +329,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fly far bounce",
-        "img": "DDR/konami.png",
+        "img": "DDR/fly_far_bounce.png",
         "opts": {
             "game": [
                 "DDR",
@@ -359,7 +359,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kono ko no nanatsu no oiwai ni",
-        "img": "DDR/konami.png",
+        "img": "DDR/kono_ko_no_nanatsu_no_oiwai_ni.png",
         "opts": {
             "game": [
                 "DDR",
@@ -370,7 +370,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sakura Mirage",
-        "img": "DDR/konami.png",
+        "img": "DDR/sakura_mirage.png",
         "opts": {
             "game": [
                 "DDR",
@@ -381,7 +381,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sakasama Cinderella parade",
-        "img": "DDR/konami.png",
+        "img": "DDR/sakasama_cinderella_parade.png",
         "opts": {
             "game": [
                 "DDR",
@@ -391,7 +391,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sennen no kotowari",
-        "img": "DDR/konami.png",
+        "img": "DDR/sennen_no_kotowari.png",
         "opts": {
             "game": [
                 "DDR",
@@ -420,7 +420,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Metsubou tenshi nikokyuppin",
-        "img": "DDR/konami.png",
+        "img": "DDR/metsubou_tenshi_nikokyuppin.png",
         "opts": {
             "game": [
                 "DDR",
@@ -440,7 +440,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Megalara Garuda",
-        "img": "DDR/konami.png",
+        "img": "DDR/megalara_garuda.png",
         "opts": {
             "game": [
                 "DDR",
@@ -451,7 +451,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Who floats",
-        "img": "DDR/konami.png",
+        "img": "DDR/who_floats.png",
         "opts": {
             "game": [
                 "DDR",
@@ -497,7 +497,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Voltississimo",
-        "img": "DDR/konami.png",
+        "img": "DDR/voltississimo.png",
         "opts": {
             "game": [
                 "DDR",
@@ -527,7 +527,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Concon",
-        "img": "DDR/konami.png",
+        "img": "DDR/concon.png",
         "opts": {
             "game": [
                 "DDR",
@@ -546,7 +546,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "JET WORLD",
-        "img": "DDR/konami.png",
+        "img": "DDR/jet_world.png",
         "opts": {
             "game": [
                 "DDR",
@@ -556,7 +556,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Globe Glitter",
-        "img": "DDR/konami.png",
+        "img": "DDR/globe_glitter.png",
         "opts": {
             "game": [
                 "DDR",
@@ -576,7 +576,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Lost one no goukoku",
-        "img": "DDR/konami.png",
+        "img": "DDR/lost_one_no_goukoku.png",
         "opts": {
             "game": [
                 "DDR",
@@ -596,7 +596,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rejoin",
-        "img": "DDR/konami.png",
+        "img": "DDR/rejoin.png",
         "opts": {
             "game": [
                 "DDR",
@@ -607,7 +607,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ryouran hit chart",
-        "img": "DDR/konami.png",
+        "img": "DDR/ryouran_hit_chart.png",
         "opts": {
             "game": [
                 "DDR",
@@ -617,7 +617,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Happy synthesizer",
-        "img": "DDR/konami.png",
+        "img": "DDR/happy_synthesizer.png",
         "opts": {
             "game": [
                 "DDR",
@@ -627,7 +627,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Dispersion Star",
-        "img": "DDR/konami.png",
+        "img": "DDR/dispersion_star.png",
         "opts": {
             "game": [
                 "DDR",
@@ -637,7 +637,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Scarlet Moon",
-        "img": "DDR/konami.png",
+        "img": "DDR/scarlet_moon.png",
         "opts": {
             "game": [
                 "DDR",
@@ -649,7 +649,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chinese Snowy Dance",
-        "img": "DDR/konami.png",
+        "img": "DDR/chinese_snowy_dance.png",
         "opts": {
             "game": [
                 "DDR",
@@ -695,7 +695,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Four Leaves",
-        "img": "DDR/konami.png",
+        "img": "DDR/four_leaves.png",
         "opts": {
             "game": [
                 "DDR",
@@ -716,7 +716,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "EMOTiON TRiPPER",
-        "img": "DDR/konami.png",
+        "img": "DDR/emotion_tripper.png",
         "opts": {
             "game": [
                 "DDR",
@@ -754,7 +754,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Nanahoshi",
-        "img": "DDR/konami.png",
+        "img": "DDR/nanahoshi.png",
         "opts": {
             "game": [
                 "DDR",
@@ -764,7 +764,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Mixed nuts",
-        "img": "DDR/konami.png",
+        "img": "DDR/mixed_nuts.png",
         "opts": {
             "game": [
                 "DDR",
@@ -802,7 +802,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tsuki ni murakumo hana ni kaze",
-        "img": "DDR/konami.png",
+        "img": "DDR/tsuki_ni_murakumo_hana_ni_kaze.png",
         "opts": {
             "game": [
                 "DDR",
@@ -821,7 +821,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Neoki yashi no ki",
-        "img": "DDR/konami.png",
+        "img": "DDR/neoki_yashi_no_ki.png",
         "opts": {
             "game": [
                 "DDR",
@@ -831,7 +831,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Take me higher",
-        "img": "DDR/konami.png",
+        "img": "DDR/take_me_higher.png",
         "opts": {
             "game": [
                 "DDR",
@@ -842,7 +842,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GOLD RUSH",
-        "img": "DDR/konami.png",
+        "img": "DDR/gold_rush.png",
         "opts": {
             "game": [
                 "DDR",
@@ -897,7 +897,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Awakening Wings",
-        "img": "DDR/konami.png",
+        "img": "DDR/awakening_wings.png",
         "opts": {
             "game": [
                 "DDR",
@@ -910,7 +910,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Broken",
-        "img": "DDR/konami.png",
+        "img": "DDR/broken.png",
         "opts": {
             "game": [
                 "DDR",
@@ -939,7 +939,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Shin hebi hime",
-        "img": "DDR/konami.png",
+        "img": "DDR/shin_hebi_hime.png",
         "opts": {
             "game": [
                 "DDR",
@@ -949,7 +949,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Strawberry Chu Chu",
-        "img": "DDR/konami.png",
+        "img": "DDR/strawberry_chu_chu.png",
         "opts": {
             "game": [
                 "DDR",
@@ -986,7 +986,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rainbow flyer",
-        "img": "DDR/konami.png",
+        "img": "DDR/rainbow_flyer.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1005,7 +1005,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Homeneko sensation",
-        "img": "DDR/konami.png",
+        "img": "DDR/homeneko_sensation.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1024,7 +1024,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "WARNINGxWARNINGxWARNING",
-        "img": "DDR/konami.png",
+        "img": "DDR/warningxwarningxwarning.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1061,7 +1061,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "HARD BRAIN",
-        "img": "DDR/konami.png",
+        "img": "DDR/hard_brain.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1161,7 +1161,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rabbit hole",
-        "img": "DDR/konami.png",
+        "img": "DDR/rabbit_hole.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1208,7 +1208,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Otome ryouran mai sakihokore",
-        "img": "DDR/konami.png",
+        "img": "DDR/otome_ryouran_mai_sakihokore.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1219,7 +1219,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sousei note",
-        "img": "DDR/konami.png",
+        "img": "DDR/sousei_note.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1231,7 +1231,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Twinkle Wonderland",
-        "img": "DDR/konami.png",
+        "img": "DDR/twinkle_wonderland.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1241,7 +1241,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Elemental Creation",
-        "img": "DDR/konami.png",
+        "img": "DDR/elemental_creation.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1261,7 +1261,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Out of focus",
-        "img": "DDR/konami.png",
+        "img": "DDR/out_of_focus.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1289,7 +1289,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hangyaku no disparate",
-        "img": "DDR/konami.png",
+        "img": "DDR/hangyaku_no_disparate.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1299,7 +1299,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "CHOCOLATE PHILOSOPHY",
-        "img": "DDR/konami.png",
+        "img": "DDR/chocolate_philosophy.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1336,7 +1336,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ranker killer girl",
-        "img": "DDR/konami.png",
+        "img": "DDR/ranker_killer_girl.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1366,7 +1366,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Danmaku shinkou",
-        "img": "DDR/konami.png",
+        "img": "DDR/danmaku_shinkou.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1378,7 +1378,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Follow Tomorrow",
-        "img": "DDR/konami.png",
+        "img": "DDR/follow_tomorrow.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1443,7 +1443,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Indigo Nocturne",
-        "img": "DDR/konami.png",
+        "img": "DDR/indigo_nocturne.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1462,7 +1462,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ORCA",
-        "img": "DDR/konami.png",
+        "img": "DDR/orca.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1472,7 +1472,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Far east nightbird",
-        "img": "DDR/konami.png",
+        "img": "DDR/far_east_nightbird.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1492,7 +1492,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Angelic Jelly",
-        "img": "DDR/konami.png",
+        "img": "DDR/angelic_jelly.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1530,7 +1530,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "The Least 100sec",
-        "img": "DDR/konami.png",
+        "img": "DDR/the_least_100sec.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1541,7 +1541,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Umeyukiyo",
-        "img": "DDR/konami.png",
+        "img": "DDR/umeyukiyo.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1552,7 +1552,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Triple Cross",
-        "img": "DDR/konami.png",
+        "img": "DDR/triple_cross.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1601,7 +1601,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BROKEN MY HEART",
-        "img": "DDR/konami.png",
+        "img": "DDR/broken_my_heart.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1629,7 +1629,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "MAX 300",
-        "img": "DDR/konami.png",
+        "img": "DDR/max_300.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1666,7 +1666,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tokyo shinwa",
-        "img": "DDR/konami.png",
+        "img": "DDR/tokyo_shinwa.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1676,7 +1676,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sweet Sweet Love Magic",
-        "img": "DDR/konami.png",
+        "img": "DDR/sweet_sweet_love_magic.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1695,7 +1695,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Haru ichiban",
-        "img": "DDR/konami.png",
+        "img": "DDR/haru_ichiban.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1714,7 +1714,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hanamaru pippi wa yoiko dake",
-        "img": "DDR/konami.png",
+        "img": "DDR/hanamaru_pippi_wa_yoiko_dake.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1761,7 +1761,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "D2R",
-        "img": "DDR/konami.png",
+        "img": "DDR/d2r.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1771,7 +1771,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Xenon",
-        "img": "DDR/konami.png",
+        "img": "DDR/xenon.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1790,7 +1790,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Mei",
-        "img": "DDR/konami.png",
+        "img": "DDR/mei.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1800,7 +1800,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "High School Love",
-        "img": "DDR/konami.png",
+        "img": "DDR/high_school_love.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1811,7 +1811,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "LEADING CYBER",
-        "img": "DDR/konami.png",
+        "img": "DDR/leading_cyber.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1857,7 +1857,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "TWINKLE HEART",
-        "img": "DDR/konami.png",
+        "img": "DDR/twinkle_heart.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1867,7 +1867,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "New Decade",
-        "img": "DDR/konami.png",
+        "img": "DDR/new_decade.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1878,7 +1878,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Roki (mikitoP)",
-        "img": "DDR/konami.png",
+        "img": "DDR/roki_(mikitop).png",
         "opts": {
             "game": [
                 "DDR",
@@ -1906,7 +1906,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Luckgakist",
-        "img": "DDR/konami.png",
+        "img": "DDR/luckgakist.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1925,7 +1925,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Vajra",
-        "img": "DDR/konami.png",
+        "img": "DDR/vajra.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1935,7 +1935,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ue ue shita shita hidari migi hidari migi BA",
-        "img": "DDR/konami.png",
+        "img": "DDR/ue_ue_shita_shita_hidari_migi_hidari_migi_ba.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1945,7 +1945,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Seiten Bon Voyage",
-        "img": "DDR/konami.png",
+        "img": "DDR/seiten_bon_voyage.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1956,7 +1956,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kyoufuu all back",
-        "img": "DDR/konami.png",
+        "img": "DDR/kyoufuu_all_back.png",
         "opts": {
             "game": [
                 "DDR",
@@ -1993,7 +1993,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Playing With Fire",
-        "img": "DDR/konami.png",
+        "img": "DDR/playing_with_fire.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2013,7 +2013,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Gekiatsu majiyaba cheer girl",
-        "img": "DDR/konami.png",
+        "img": "DDR/gekiatsu_majiyaba_cheer_girl.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2024,7 +2024,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ZEPHYRANTHES",
-        "img": "DDR/konami.png",
+        "img": "DDR/zephyranthes.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2044,7 +2044,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Six String Proof",
-        "img": "DDR/konami.png",
+        "img": "DDR/six_string_proof.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2056,7 +2056,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Raspberry Heart (English version)",
-        "img": "DDR/konami.png",
+        "img": "DDR/raspberry_heart_(english_version).png",
         "opts": {
             "game": [
                 "DDR",
@@ -2066,7 +2066,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rainbow rainbow",
-        "img": "DDR/konami.png",
+        "img": "DDR/rainbow_rainbow.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2085,7 +2085,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Beautiful Dream",
-        "img": "DDR/konami.png",
+        "img": "DDR/beautiful_dream.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2122,7 +2122,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SigSig",
-        "img": "DDR/konami.png",
+        "img": "DDR/sigsig.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2142,7 +2142,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chance and Dice",
-        "img": "DDR/konami.png",
+        "img": "DDR/chance_and_dice.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2170,7 +2170,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "New Gravity",
-        "img": "DDR/konami.png",
+        "img": "DDR/new_gravity.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2198,7 +2198,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Catharsis no tsuki",
-        "img": "DDR/konami.png",
+        "img": "DDR/catharsis_no_tsuki.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2209,7 +2209,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Right Time Right Way",
-        "img": "DDR/konami.png",
+        "img": "DDR/right_time_right_way.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2219,7 +2219,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "MAX LOVE",
-        "img": "DDR/konami.png",
+        "img": "DDR/max_love.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2238,7 +2238,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SWEET HOME PARTY",
-        "img": "DDR/konami.png",
+        "img": "DDR/sweet_home_party.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2257,7 +2257,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Pierce The Sky",
-        "img": "DDR/konami.png",
+        "img": "DDR/pierce_the_sky.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2285,7 +2285,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "FLOWER",
-        "img": "DDR/konami.png",
+        "img": "DDR/flower.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2314,7 +2314,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "MANA",
-        "img": "DDR/konami.png",
+        "img": "DDR/mana.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2333,7 +2333,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "REVOLUTION",
-        "img": "DDR/konami.png",
+        "img": "DDR/revolution.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2343,7 +2343,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Himawari sunset",
-        "img": "DDR/konami.png",
+        "img": "DDR/himawari_sunset.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2353,7 +2353,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Mermaid girl",
-        "img": "DDR/konami.png",
+        "img": "DDR/mermaid_girl.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2372,7 +2372,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Flip Flap",
-        "img": "DDR/konami.png",
+        "img": "DDR/flip_flap.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2384,7 +2384,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "TRUE LOVE",
-        "img": "DDR/konami.png",
+        "img": "DDR/true_love.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2394,7 +2394,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "IDENTITY",
-        "img": "DDR/konami.png",
+        "img": "DDR/identity.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2405,7 +2405,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Prey",
-        "img": "DDR/konami.png",
+        "img": "DDR/prey.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2416,7 +2416,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Nageki no ki",
-        "img": "DDR/konami.png",
+        "img": "DDR/nageki_no_ki.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2426,7 +2426,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sakura storm",
-        "img": "DDR/konami.png",
+        "img": "DDR/sakura_storm.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2463,7 +2463,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Daily Lunch Special",
-        "img": "DDR/konami.png",
+        "img": "DDR/daily_lunch_special.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2501,7 +2501,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ichizu",
-        "img": "DDR/konami.png",
+        "img": "DDR/ichizu.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2520,7 +2520,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "TIERRA BUENA",
-        "img": "DDR/konami.png",
+        "img": "DDR/tierra_buena.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2530,7 +2530,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Too Late Snow",
-        "img": "DDR/konami.png",
+        "img": "DDR/too_late_snow.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2541,7 +2541,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "FUNKY SUMMER BEACH",
-        "img": "DDR/konami.png",
+        "img": "DDR/funky_summer_beach.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2551,7 +2551,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tsumi to batsu",
-        "img": "DDR/konami.png",
+        "img": "DDR/tsumi_to_batsu.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2570,7 +2570,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Going up",
-        "img": "DDR/konami.png",
+        "img": "DDR/going_up.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2589,7 +2589,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Make A Difference",
-        "img": "DDR/konami.png",
+        "img": "DDR/make_a_difference.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2599,7 +2599,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "FIRE",
-        "img": "DDR/konami.png",
+        "img": "DDR/fire.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2627,7 +2627,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Luminous days",
-        "img": "DDR/konami.png",
+        "img": "DDR/luminous_days.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2656,7 +2656,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Trill auf G",
-        "img": "DDR/konami.png",
+        "img": "DDR/trill_auf_g.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2669,7 +2669,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "B4U",
-        "img": "DDR/konami.png",
+        "img": "DDR/b4u.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2688,7 +2688,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kuranogawa ondo",
-        "img": "DDR/konami.png",
+        "img": "DDR/kuranogawa_ondo.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2734,7 +2734,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Grand Chariot",
-        "img": "DDR/konami.png",
+        "img": "DDR/grand_chariot.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2755,7 +2755,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Wuv U",
-        "img": "DDR/konami.png",
+        "img": "DDR/wuv_u.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2766,7 +2766,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DESTINY",
-        "img": "DDR/konami.png",
+        "img": "DDR/destiny.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2785,7 +2785,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Koishigure",
-        "img": "DDR/konami.png",
+        "img": "DDR/koishigure.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2795,7 +2795,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Osenju meditation",
-        "img": "DDR/konami.png",
+        "img": "DDR/osenju_meditation.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2806,7 +2806,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Murmur twins",
-        "img": "DDR/konami.png",
+        "img": "DDR/murmur_twins.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2834,7 +2834,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Saturday Night Love",
-        "img": "DDR/konami.png",
+        "img": "DDR/saturday_night_love.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2853,7 +2853,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tsuioku no aria",
-        "img": "DDR/konami.png",
+        "img": "DDR/tsuioku_no_aria.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2872,7 +2872,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Destiny lovers",
-        "img": "DDR/konami.png",
+        "img": "DDR/destiny_lovers.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2919,7 +2919,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Blew My Mind",
-        "img": "DDR/konami.png",
+        "img": "DDR/blew_my_mind.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2929,7 +2929,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "KING (Kanaria)",
-        "img": "DDR/konami.png",
+        "img": "DDR/king_(kanaria).png",
         "opts": {
             "game": [
                 "DDR",
@@ -2985,7 +2985,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Setsuna trip",
-        "img": "DDR/konami.png",
+        "img": "DDR/setsuna_trip.png",
         "opts": {
             "game": [
                 "DDR",
@@ -2996,7 +2996,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Next FUTURE",
-        "img": "DDR/konami.png",
+        "img": "DDR/next_future.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3006,7 +3006,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Phlox",
-        "img": "DDR/konami.png",
+        "img": "DDR/phlox.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3025,7 +3025,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Puberty Dysthymia",
-        "img": "DDR/konami.png",
+        "img": "DDR/puberty_dysthymia.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3090,7 +3090,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fuchinkan CANDY",
-        "img": "DDR/konami.png",
+        "img": "DDR/fuchinkan_candy.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3100,7 +3100,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Take A Step Forward",
-        "img": "DDR/konami.png",
+        "img": "DDR/take_a_step_forward.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3110,7 +3110,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sakazuki",
-        "img": "DDR/konami.png",
+        "img": "DDR/sakazuki.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3129,7 +3129,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "LIKE A VAMPIRE",
-        "img": "DDR/konami.png",
+        "img": "DDR/like_a_vampire.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3143,7 +3143,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ZERO",
-        "img": "DDR/konami.png",
+        "img": "DDR/zero.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3153,7 +3153,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Zanzou ni tsunagareta tsuioku no HIDEAWAY",
-        "img": "DDR/konami.png",
+        "img": "DDR/zanzou_ni_tsunagareta_tsuioku_no_hideaway.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3174,7 +3174,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chocolate Planet",
-        "img": "DDR/konami.png",
+        "img": "DDR/chocolate_planet.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3194,7 +3194,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Amanojaku",
-        "img": "DDR/konami.png",
+        "img": "DDR/amanojaku.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3214,7 +3214,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Towards the TOWER",
-        "img": "DDR/konami.png",
+        "img": "DDR/towards_the_tower.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3233,7 +3233,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ENDYMION",
-        "img": "DDR/konami.png",
+        "img": "DDR/endymion.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3252,7 +3252,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ALBIDA",
-        "img": "DDR/konami.png",
+        "img": "DDR/albida.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3281,7 +3281,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Murasaki guruma",
-        "img": "DDR/konami.png",
+        "img": "DDR/murasaki_guruma.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3318,7 +3318,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rin to shite saku hana no gotoku",
-        "img": "DDR/konami.png",
+        "img": "DDR/rin_to_shite_saku_hana_no_gotoku.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3330,7 +3330,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Cleopatrysm",
-        "img": "DDR/konami.png",
+        "img": "DDR/cleopatrysm.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3352,7 +3352,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Akatsuki (PRIDASK)",
-        "img": "DDR/konami.png",
+        "img": "DDR/akatsuki_(pridask).png",
         "opts": {
             "game": [
                 "DDR",
@@ -3380,7 +3380,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tomorrow Perfume",
-        "img": "DDR/konami.png",
+        "img": "DDR/tomorrow_perfume.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3390,7 +3390,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "StrayedCatz",
-        "img": "DDR/konami.png",
+        "img": "DDR/strayedcatz.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3401,7 +3401,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Amalgamation",
-        "img": "DDR/konami.png",
+        "img": "DDR/amalgamation.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3456,7 +3456,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Venus",
-        "img": "DDR/konami.png",
+        "img": "DDR/venus.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3511,7 +3511,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Endorphin",
-        "img": "DDR/konami.png",
+        "img": "DDR/endorphin.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3521,7 +3521,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Empathetic",
-        "img": "DDR/konami.png",
+        "img": "DDR/empathetic.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3569,7 +3569,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DROP",
-        "img": "DDR/konami.png",
+        "img": "DDR/drop.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3607,7 +3607,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Yoidore shirazu",
-        "img": "DDR/konami.png",
+        "img": "DDR/yoidore_shirazu.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3617,7 +3617,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chocolate smile",
-        "img": "DDR/konami.png",
+        "img": "DDR/chocolate_smile.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3637,7 +3637,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "AETHER",
-        "img": "DDR/konami.png",
+        "img": "DDR/aether.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3647,7 +3647,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rensen ryouran",
-        "img": "DDR/konami.png",
+        "img": "DDR/rensen_ryouran.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3658,7 +3658,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "KHAMEN BREAK",
-        "img": "DDR/konami.png",
+        "img": "DDR/khamen_break.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3671,7 +3671,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tokai seifuku Girls",
-        "img": "DDR/konami.png",
+        "img": "DDR/tokai_seifuku_girls.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3709,7 +3709,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kilonova",
-        "img": "DDR/konami.png",
+        "img": "DDR/kilonova.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3720,7 +3720,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Riot of Color",
-        "img": "DDR/konami.png",
+        "img": "DDR/riot_of_color.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3749,7 +3749,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Perfect eater",
-        "img": "DDR/konami.png",
+        "img": "DDR/perfect_eater.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3779,7 +3779,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Quaver",
-        "img": "DDR/konami.png",
+        "img": "DDR/quaver.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3790,7 +3790,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "HEART BEAT FORMULA",
-        "img": "DDR/konami.png",
+        "img": "DDR/heart_beat_formula.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3845,7 +3845,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sahara",
-        "img": "DDR/konami.png",
+        "img": "DDR/sahara.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3891,7 +3891,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chaos eater",
-        "img": "DDR/konami.png",
+        "img": "DDR/chaos_eater.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3920,7 +3920,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "TAKE ME HIGHER",
-        "img": "DDR/konami.png",
+        "img": "DDR/take_me_higher.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3940,7 +3940,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kiken na kajitsu",
-        "img": "DDR/konami.png",
+        "img": "DDR/kiken_na_kajitsu.png",
         "opts": {
             "game": [
                 "DDR",
@@ -3987,7 +3987,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Deep tenDon Reflex",
-        "img": "DDR/konami.png",
+        "img": "DDR/deep_tendon_reflex.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4006,7 +4006,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "TRIP MACHINE PhoeniX",
-        "img": "DDR/konami.png",
+        "img": "DDR/trip_machine_phoenix.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4052,7 +4052,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kiyarora eisei no kiseki",
-        "img": "DDR/konami.png",
+        "img": "DDR/kiyarora_eisei_no_kiseki.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4072,7 +4072,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Romancing Layer",
-        "img": "DDR/konami.png",
+        "img": "DDR/romancing_layer.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4082,7 +4082,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sakura",
-        "img": "DDR/konami.png",
+        "img": "DDR/sakura.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4101,7 +4101,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kyousui ichika",
-        "img": "DDR/konami.png",
+        "img": "DDR/kyousui_ichika.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4112,7 +4112,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Switch",
-        "img": "DDR/konami.png",
+        "img": "DDR/switch.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4122,7 +4122,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Evans",
-        "img": "DDR/konami.png",
+        "img": "DDR/evans.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4133,7 +4133,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Gensoukei sekaishuufuku shoujo",
-        "img": "DDR/konami.png",
+        "img": "DDR/gensoukei_sekaishuufuku_shoujo.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4162,7 +4162,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "STULTI",
-        "img": "DDR/konami.png",
+        "img": "DDR/stulti.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4183,7 +4183,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Blue Rain",
-        "img": "DDR/konami.png",
+        "img": "DDR/blue_rain.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4193,7 +4193,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kagachi",
-        "img": "DDR/konami.png",
+        "img": "DDR/kagachi.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4230,7 +4230,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Bassdrop freaks",
-        "img": "DDR/konami.png",
+        "img": "DDR/bassdrop_freaks.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4249,7 +4249,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Amazing Bomberman",
-        "img": "DDR/konami.png",
+        "img": "DDR/amazing_bomberman.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4278,7 +4278,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Papipopepipupepa",
-        "img": "DDR/konami.png",
+        "img": "DDR/papipopepipupepa.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4288,7 +4288,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Cachaca",
-        "img": "DDR/konami.png",
+        "img": "DDR/cachaca.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4307,7 +4307,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Oboro",
-        "img": "DDR/konami.png",
+        "img": "DDR/oboro.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4328,7 +4328,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Lightspeed",
-        "img": "DDR/konami.png",
+        "img": "DDR/lightspeed.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4338,7 +4338,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "HAPPY LUCKY YEAPPY",
-        "img": "DDR/konami.png",
+        "img": "DDR/happy_lucky_yeappy.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4348,7 +4348,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Usotsuki yokochou wa amemoyou",
-        "img": "DDR/konami.png",
+        "img": "DDR/usotsuki_yokochou_wa_amemoyou.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4367,7 +4367,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Shijou no laturia",
-        "img": "DDR/konami.png",
+        "img": "DDR/shijou_no_laturia.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4413,7 +4413,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Glitter Flatter Scatter",
-        "img": "DDR/konami.png",
+        "img": "DDR/glitter_flatter_scatter.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4441,7 +4441,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Happy Wedding",
-        "img": "DDR/konami.png",
+        "img": "DDR/happy_wedding.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4460,7 +4460,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Romancing escape (song)",
-        "img": "DDR/konami.png",
+        "img": "DDR/romancing_escape_(song).png",
         "opts": {
             "game": [
                 "DDR",
@@ -4552,7 +4552,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Second Heaven",
-        "img": "DDR/konami.png",
+        "img": "DDR/second_heaven.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4572,7 +4572,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DUAL STRIKER",
-        "img": "DDR/konami.png",
+        "img": "DDR/dual_striker.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4593,7 +4593,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Our Love",
-        "img": "DDR/konami.png",
+        "img": "DDR/our_love.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4613,7 +4613,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "The Wind of Gold",
-        "img": "DDR/konami.png",
+        "img": "DDR/the_wind_of_gold.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4741,7 +4741,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Shakariki relation",
-        "img": "DDR/konami.png",
+        "img": "DDR/shakariki_relation.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4769,7 +4769,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "I/O",
-        "img": "DDR/konami.png",
+        "img": "DDR/i_o.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4779,7 +4779,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Alien alien",
-        "img": "DDR/konami.png",
+        "img": "DDR/alien_alien.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4798,7 +4798,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kouen",
-        "img": "DDR/konami.png",
+        "img": "DDR/kouen.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4809,7 +4809,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Starmine",
-        "img": "DDR/konami.png",
+        "img": "DDR/starmine.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4837,7 +4837,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Holic",
-        "img": "DDR/konami.png",
+        "img": "DDR/holic.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4883,7 +4883,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "AA",
-        "img": "DDR/konami.png",
+        "img": "DDR/aa.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4902,7 +4902,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Colorful minutes",
-        "img": "DDR/konami.png",
+        "img": "DDR/colorful_minutes.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4948,7 +4948,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Itetsu no pride",
-        "img": "DDR/konami.png",
+        "img": "DDR/itetsu_no_pride.png",
         "opts": {
             "game": [
                 "DDR",
@@ -4968,7 +4968,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "AI",
-        "img": "DDR/konami.png",
+        "img": "DDR/ai.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5052,7 +5052,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Go For The Top",
-        "img": "DDR/konami.png",
+        "img": "DDR/go_for_the_top.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5071,7 +5071,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Condor",
-        "img": "DDR/konami.png",
+        "img": "DDR/condor.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5081,7 +5081,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "A",
-        "img": "DDR/konami.png",
+        "img": "DDR/a.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5091,7 +5091,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Go To The Oasis",
-        "img": "DDR/konami.png",
+        "img": "DDR/go_to_the_oasis.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5137,7 +5137,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Mesmerizer",
-        "img": "DDR/konami.png",
+        "img": "DDR/mesmerizer.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5156,7 +5156,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Spanish Snowy Dance",
-        "img": "DDR/konami.png",
+        "img": "DDR/spanish_snowy_dance.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5176,7 +5176,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Stellar rain",
-        "img": "DDR/konami.png",
+        "img": "DDR/stellar_rain.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5186,7 +5186,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Koi no puzzle magic",
-        "img": "DDR/konami.png",
+        "img": "DDR/koi_no_puzzle_magic.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5196,7 +5196,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "She is my wife",
-        "img": "DDR/konami.png",
+        "img": "DDR/she_is_my_wife.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5216,7 +5216,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "PUNISHER",
-        "img": "DDR/konami.png",
+        "img": "DDR/punisher.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5247,7 +5247,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "LoveLove DokiDoki",
-        "img": "DDR/konami.png",
+        "img": "DDR/lovelove_dokidoki.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5266,7 +5266,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Mirai prism",
-        "img": "DDR/konami.png",
+        "img": "DDR/mirai_prism.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5276,7 +5276,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Crazy Shuffle",
-        "img": "DDR/konami.png",
+        "img": "DDR/crazy_shuffle.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5313,7 +5313,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BITTER CHOCOLATE STRIKER",
-        "img": "DDR/konami.png",
+        "img": "DDR/bitter_chocolate_striker.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5323,7 +5323,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Suspicions",
-        "img": "DDR/konami.png",
+        "img": "DDR/suspicions.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5353,7 +5353,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Glacia",
-        "img": "DDR/konami.png",
+        "img": "DDR/glacia.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5364,7 +5364,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sand Blow",
-        "img": "DDR/konami.png",
+        "img": "DDR/sand_blow.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5401,7 +5401,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Marisa wa taihen na mono wo nusunde ikimashita",
-        "img": "DDR/konami.png",
+        "img": "DDR/marisa_wa_taihen_na_mono_wo_nusunde_ikimashita.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5411,7 +5411,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Jet coaster girl",
-        "img": "DDR/konami.png",
+        "img": "DDR/jet_coaster_girl.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5457,7 +5457,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SABER WING",
-        "img": "DDR/konami.png",
+        "img": "DDR/saber_wing.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5485,7 +5485,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "VANESSA",
-        "img": "DDR/konami.png",
+        "img": "DDR/vanessa.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5513,7 +5513,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Synergy For Angels",
-        "img": "DDR/konami.png",
+        "img": "DDR/synergy_for_angels.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5525,7 +5525,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SILVER DREAM",
-        "img": "DDR/konami.png",
+        "img": "DDR/silver_dream.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5535,7 +5535,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sumidagawa karenka",
-        "img": "DDR/konami.png",
+        "img": "DDR/sumidagawa_karenka.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5545,7 +5545,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "JUST BELIEVE",
-        "img": "DDR/konami.png",
+        "img": "DDR/just_believe.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5574,7 +5574,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chikuwa parfait da yo CKP (Yvya Remix)",
-        "img": "DDR/konami.png",
+        "img": "DDR/chikuwa_parfait_da_yo_ckp_(yvya_remix).png",
         "opts": {
             "game": [
                 "DDR",
@@ -5657,7 +5657,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Emera",
-        "img": "DDR/konami.png",
+        "img": "DDR/emera.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5667,7 +5667,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Wow Wow VENUS",
-        "img": "DDR/konami.png",
+        "img": "DDR/wow_wow_venus.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5695,7 +5695,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ROOM",
-        "img": "DDR/konami.png",
+        "img": "DDR/room.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5723,7 +5723,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Perditus paradisus",
-        "img": "DDR/konami.png",
+        "img": "DDR/perditus_paradisus.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5742,7 +5742,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Life is beautiful",
-        "img": "DDR/konami.png",
+        "img": "DDR/life_is_beautiful.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5817,7 +5817,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hikari eureka",
-        "img": "DDR/konami.png",
+        "img": "DDR/hikari_eureka.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5836,7 +5836,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "THE SHINING POLARIS",
-        "img": "DDR/konami.png",
+        "img": "DDR/the_shining_polaris.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5855,7 +5855,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sweet Rain",
-        "img": "DDR/konami.png",
+        "img": "DDR/sweet_rain.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5865,7 +5865,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "La libertad",
-        "img": "DDR/konami.png",
+        "img": "DDR/la_libertad.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5884,7 +5884,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kakumei passionate",
-        "img": "DDR/konami.png",
+        "img": "DDR/kakumei_passionate.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5913,7 +5913,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Pursuer",
-        "img": "DDR/konami.png",
+        "img": "DDR/pursuer.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5923,7 +5923,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Finally Dive",
-        "img": "DDR/konami.png",
+        "img": "DDR/finally_dive.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5934,7 +5934,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Silly Love",
-        "img": "DDR/konami.png",
+        "img": "DDR/silly_love.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5944,7 +5944,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hashire melonpan",
-        "img": "DDR/konami.png",
+        "img": "DDR/hashire_melonpan.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5955,7 +5955,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sky Is The Limit",
-        "img": "DDR/konami.png",
+        "img": "DDR/sky_is_the_limit.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5974,7 +5974,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Cosmic Hurricane",
-        "img": "DDR/konami.png",
+        "img": "DDR/cosmic_hurricane.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5984,7 +5984,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Valanga",
-        "img": "DDR/konami.png",
+        "img": "DDR/valanga.png",
         "opts": {
             "game": [
                 "DDR",
@@ -5995,7 +5995,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Bad Maniacs",
-        "img": "DDR/konami.png",
+        "img": "DDR/bad_maniacs.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6032,7 +6032,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "PRANA",
-        "img": "DDR/konami.png",
+        "img": "DDR/prana.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6069,7 +6069,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Saturn",
-        "img": "DDR/konami.png",
+        "img": "DDR/saturn.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6088,7 +6088,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Wadatsumi",
-        "img": "DDR/konami.png",
+        "img": "DDR/wadatsumi.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6108,7 +6108,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Shikkoku no special princess sundae",
-        "img": "DDR/konami.png",
+        "img": "DDR/shikkoku_no_special_princess_sundae.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6128,7 +6128,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ABSOLUTE",
-        "img": "DDR/konami.png",
+        "img": "DDR/absolute.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6156,7 +6156,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sola",
-        "img": "DDR/konami.png",
+        "img": "DDR/sola.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6202,7 +6202,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ROCK THE PARTY",
-        "img": "DDR/konami.png",
+        "img": "DDR/rock_the_party.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6239,7 +6239,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "IX",
-        "img": "DDR/konami.png",
+        "img": "DDR/ix.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6278,7 +6278,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Baby step",
-        "img": "DDR/konami.png",
+        "img": "DDR/baby_step.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6298,7 +6298,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "If",
-        "img": "DDR/konami.png",
+        "img": "DDR/if.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6328,7 +6328,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Mikeneko rock",
-        "img": "DDR/konami.png",
+        "img": "DDR/mikeneko_rock.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6338,7 +6338,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Saishou sanbai kanzensuu",
-        "img": "DDR/konami.png",
+        "img": "DDR/saishou_sanbai_kanzensuu.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6376,7 +6376,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Roshin yuukai",
-        "img": "DDR/konami.png",
+        "img": "DDR/roshin_yuukai.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6395,7 +6395,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Jetcoaster Windy",
-        "img": "DDR/konami.png",
+        "img": "DDR/jetcoaster_windy.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6416,7 +6416,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Spring pony",
-        "img": "DDR/konami.png",
+        "img": "DDR/spring_pony.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6445,7 +6445,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Smooooch",
-        "img": "DDR/konami.png",
+        "img": "DDR/smooooch.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6456,7 +6456,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Metamorphic",
-        "img": "DDR/konami.png",
+        "img": "DDR/metamorphic.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6475,7 +6475,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chaplet",
-        "img": "DDR/konami.png",
+        "img": "DDR/chaplet.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6485,7 +6485,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Midnight WAR",
-        "img": "DDR/konami.png",
+        "img": "DDR/midnight_war.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6497,7 +6497,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Onnakotoba no shoushitsu",
-        "img": "DDR/konami.png",
+        "img": "DDR/onnakotoba_no_shoushitsu.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6507,7 +6507,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "JOMANDA",
-        "img": "DDR/konami.png",
+        "img": "DDR/jomanda.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6528,7 +6528,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Dance With The Dead",
-        "img": "DDR/konami.png",
+        "img": "DDR/dance_with_the_dead.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6547,7 +6547,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DIAVOLO",
-        "img": "DDR/konami.png",
+        "img": "DDR/diavolo.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6567,7 +6567,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Special One",
-        "img": "DDR/konami.png",
+        "img": "DDR/special_one.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6578,7 +6578,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Boss Rush",
-        "img": "DDR/konami.png",
+        "img": "DDR/boss_rush.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6606,7 +6606,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Crimson gate",
-        "img": "DDR/konami.png",
+        "img": "DDR/crimson_gate.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6634,7 +6634,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "MEGALOVANIA",
-        "img": "DDR/konami.png",
+        "img": "DDR/megalovania.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6655,7 +6655,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ryoushi no umi no Lindwurm",
-        "img": "DDR/konami.png",
+        "img": "DDR/ryoushi_no_umi_no_lindwurm.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6666,7 +6666,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Triple Counter",
-        "img": "DDR/konami.png",
+        "img": "DDR/triple_counter.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6713,7 +6713,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "In The Breeze",
-        "img": "DDR/konami.png",
+        "img": "DDR/in_the_breeze.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6780,7 +6780,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sword of Vengeance",
-        "img": "DDR/konami.png",
+        "img": "DDR/sword_of_vengeance.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6790,7 +6790,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BibitStream",
-        "img": "DDR/konami.png",
+        "img": "DDR/bibitstream.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6800,7 +6800,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fuurin hanabi",
-        "img": "DDR/konami.png",
+        "img": "DDR/fuurin_hanabi.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6811,7 +6811,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Nijiiro no hana",
-        "img": "DDR/konami.png",
+        "img": "DDR/nijiiro_no_hana.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6840,7 +6840,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "STILL IN MY HEART",
-        "img": "DDR/konami.png",
+        "img": "DDR/still_in_my_heart.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6868,7 +6868,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sakura Sunrise",
-        "img": "DDR/konami.png",
+        "img": "DDR/sakura_sunrise.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6905,7 +6905,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "MIDNIGHT SPECIAL",
-        "img": "DDR/konami.png",
+        "img": "DDR/midnight_special.png",
         "opts": {
             "game": [
                 "DDR",
@@ -6915,7 +6915,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Engraved Mark",
-        "img": "DDR/konami.png",
+        "img": "DDR/engraved_mark.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7000,7 +7000,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Pink Rose",
-        "img": "DDR/konami.png",
+        "img": "DDR/pink_rose.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7011,7 +7011,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Mind game",
-        "img": "DDR/konami.png",
+        "img": "DDR/mind_game.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7022,7 +7022,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Together Going My Way",
-        "img": "DDR/konami.png",
+        "img": "DDR/together_going_my_way.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7032,7 +7032,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Haunted maid lunch",
-        "img": "DDR/konami.png",
+        "img": "DDR/haunted_maid_lunch.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7052,7 +7052,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Snow prism",
-        "img": "DDR/konami.png",
+        "img": "DDR/snow_prism.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7071,7 +7071,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Across the nightmare",
-        "img": "DDR/konami.png",
+        "img": "DDR/across_the_nightmare.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7082,7 +7082,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chronos",
-        "img": "DDR/konami.png",
+        "img": "DDR/chronos.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7094,7 +7094,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Netsujou no zapadeado",
-        "img": "DDR/konami.png",
+        "img": "DDR/netsujou_no_zapadeado.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7132,7 +7132,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "HYENA",
-        "img": "DDR/konami.png",
+        "img": "DDR/hyena.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7164,7 +7164,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Koko kara yoroshiku daisakusen 143",
-        "img": "DDR/konami.png",
+        "img": "DDR/koko_kara_yoroshiku_daisakusen_143.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7185,7 +7185,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Innocent bible",
-        "img": "DDR/konami.png",
+        "img": "DDR/innocent_bible.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7195,7 +7195,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Schrodinger no neko",
-        "img": "DDR/konami.png",
+        "img": "DDR/schrodinger_no_neko.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7205,7 +7205,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hella Deep",
-        "img": "DDR/konami.png",
+        "img": "DDR/hella_deep.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7251,7 +7251,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SHION",
-        "img": "DDR/konami.png",
+        "img": "DDR/shion.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7280,7 +7280,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Adularia",
-        "img": "DDR/konami.png",
+        "img": "DDR/adularia.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7362,7 +7362,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Dadadadadadadadadada",
-        "img": "DDR/konami.png",
+        "img": "DDR/dadadadadadadadadada.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7382,7 +7382,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Resurrection",
-        "img": "DDR/konami.png",
+        "img": "DDR/resurrection.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7392,7 +7392,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "PANIC HOLIC",
-        "img": "DDR/konami.png",
+        "img": "DDR/panic_holic.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7402,7 +7402,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Magnetic",
-        "img": "DDR/konami.png",
+        "img": "DDR/magnetic.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7475,7 +7475,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hollywood Galaxy",
-        "img": "DDR/konami.png",
+        "img": "DDR/hollywood_galaxy.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7522,7 +7522,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Pure Rude",
-        "img": "DDR/konami.png",
+        "img": "DDR/pure_rude.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7532,7 +7532,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BEYOND THE EARTH",
-        "img": "DDR/konami.png",
+        "img": "DDR/beyond_the_earth.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7570,7 +7570,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Wakusei lollipop",
-        "img": "DDR/konami.png",
+        "img": "DDR/wakusei_lollipop.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7599,7 +7599,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sayonara heaven",
-        "img": "DDR/konami.png",
+        "img": "DDR/sayonara_heaven.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7628,7 +7628,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "VOLAQUAS",
-        "img": "DDR/konami.png",
+        "img": "DDR/volaquas.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7659,7 +7659,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Dopamine",
-        "img": "DDR/konami.png",
+        "img": "DDR/dopamine.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7678,7 +7678,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Shizuku",
-        "img": "DDR/konami.png",
+        "img": "DDR/shizuku.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7688,7 +7688,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "So What (PRIDASK)",
-        "img": "DDR/konami.png",
+        "img": "DDR/so_what_(pridask).png",
         "opts": {
             "game": [
                 "DDR",
@@ -7770,7 +7770,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Asairo no kamihikouki",
-        "img": "DDR/konami.png",
+        "img": "DDR/asairo_no_kamihikouki.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7780,7 +7780,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Night of knights",
-        "img": "DDR/konami.png",
+        "img": "DDR/night_of_knights.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7790,7 +7790,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Black Emperor",
-        "img": "DDR/konami.png",
+        "img": "DDR/black_emperor.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7809,7 +7809,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Heisokuteki flation",
-        "img": "DDR/konami.png",
+        "img": "DDR/heisokuteki_flation.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7820,7 +7820,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Bakunana testroyer",
-        "img": "DDR/konami.png",
+        "img": "DDR/bakunana_testroyer.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7830,7 +7830,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sakura Reflection",
-        "img": "DDR/konami.png",
+        "img": "DDR/sakura_reflection.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7840,7 +7840,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BLACK JACKAL",
-        "img": "DDR/konami.png",
+        "img": "DDR/black_jackal.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7852,7 +7852,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sephirot",
-        "img": "DDR/konami.png",
+        "img": "DDR/sephirot.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7873,7 +7873,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Stella Sinistra",
-        "img": "DDR/konami.png",
+        "img": "DDR/stella_sinistra.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7885,7 +7885,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "JOKER",
-        "img": "DDR/konami.png",
+        "img": "DDR/joker.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7895,7 +7895,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Bloody Tears(IIDX EDITION)",
-        "img": "DDR/konami.png",
+        "img": "DDR/bloody_tears(iidx_edition).png",
         "opts": {
             "game": [
                 "DDR",
@@ -7905,7 +7905,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Odyssey",
-        "img": "DDR/konami.png",
+        "img": "DDR/odyssey.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7915,7 +7915,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Remember remember",
-        "img": "DDR/konami.png",
+        "img": "DDR/remember_remember.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7926,7 +7926,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Illegal Function Call",
-        "img": "DDR/konami.png",
+        "img": "DDR/illegal_function_call.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7963,7 +7963,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "FIRE FIRE",
-        "img": "DDR/konami.png",
+        "img": "DDR/fire_fire.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7973,7 +7973,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "POSSESSION",
-        "img": "DDR/konami.png",
+        "img": "DDR/possession.png",
         "opts": {
             "game": [
                 "DDR",
@@ -7993,7 +7993,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Dokidoki Valentine",
-        "img": "DDR/konami.png",
+        "img": "DDR/dokidoki_valentine.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8003,7 +8003,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Freeway Shuffle",
-        "img": "DDR/konami.png",
+        "img": "DDR/freeway_shuffle.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8014,7 +8014,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Aftermath",
-        "img": "DDR/konami.png",
+        "img": "DDR/aftermath.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8028,7 +8028,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Yumebuki",
-        "img": "DDR/konami.png",
+        "img": "DDR/yumebuki.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8047,7 +8047,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Shakunetsu Beach Side Bunny",
-        "img": "DDR/konami.png",
+        "img": "DDR/shakunetsu_beach_side_bunny.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8058,7 +8058,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Lilieze to enryuu Laevateinn",
-        "img": "DDR/konami.png",
+        "img": "DDR/lilieze_to_enryuu_laevateinn.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8069,7 +8069,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "New York EVOLVED",
-        "img": "DDR/konami.png",
+        "img": "DDR/new_york_evolved.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8097,7 +8097,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chikuwa parfait da yo CKP",
-        "img": "DDR/konami.png",
+        "img": "DDR/chikuwa_parfait_da_yo_ckp.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8108,7 +8108,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rinne no karasu",
-        "img": "DDR/konami.png",
+        "img": "DDR/rinne_no_karasu.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8119,7 +8119,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Era (nostalmix)",
-        "img": "DDR/konami.png",
+        "img": "DDR/era_(nostalmix).png",
         "opts": {
             "game": [
                 "DDR",
@@ -8129,7 +8129,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Windy Fairy",
-        "img": "DDR/konami.png",
+        "img": "DDR/windy_fairy.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8148,7 +8148,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Murasakibana",
-        "img": "DDR/konami.png",
+        "img": "DDR/murasakibana.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8168,7 +8168,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Brazilian Anthem",
-        "img": "DDR/konami.png",
+        "img": "DDR/brazilian_anthem.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8178,7 +8178,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "OROCHI STRIKE",
-        "img": "DDR/konami.png",
+        "img": "DDR/orochi_strike.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8188,7 +8188,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Deadball de homerun",
-        "img": "DDR/konami.png",
+        "img": "DDR/deadball_de_homerun.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8209,7 +8209,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Straight Oath",
-        "img": "DDR/konami.png",
+        "img": "DDR/straight_oath.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8237,7 +8237,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Timepiece phase II",
-        "img": "DDR/konami.png",
+        "img": "DDR/timepiece_phase_ii.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8248,7 +8248,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BambooSword Girl",
-        "img": "DDR/konami.png",
+        "img": "DDR/bamboosword_girl.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8260,7 +8260,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Renaikansoku",
-        "img": "DDR/konami.png",
+        "img": "DDR/renaikansoku.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8270,7 +8270,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "MOON",
-        "img": "DDR/konami.png",
+        "img": "DDR/moon.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8334,7 +8334,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "CELEBRATE NITE",
-        "img": "DDR/konami.png",
+        "img": "DDR/celebrate_nite.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8362,7 +8362,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Another Phase",
-        "img": "DDR/konami.png",
+        "img": "DDR/another_phase.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8381,7 +8381,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Norepinephrine",
-        "img": "DDR/konami.png",
+        "img": "DDR/norepinephrine.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8391,7 +8391,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Idola",
-        "img": "DDR/konami.png",
+        "img": "DDR/idola.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8412,7 +8412,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chucchu Machu Picchu",
-        "img": "DDR/konami.png",
+        "img": "DDR/chucchu_machu_picchu.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8423,7 +8423,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sweets wa tomaranai",
-        "img": "DDR/konami.png",
+        "img": "DDR/sweets_wa_tomaranai.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8434,7 +8434,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Theory of Eternity",
-        "img": "DDR/konami.png",
+        "img": "DDR/theory_of_eternity.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8516,7 +8516,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Thank You Merry Christmas",
-        "img": "DDR/konami.png",
+        "img": "DDR/thank_you_merry_christmas.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8535,7 +8535,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Nijiiro",
-        "img": "DDR/konami.png",
+        "img": "DDR/nijiiro.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8563,7 +8563,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GENOM SCREAMS",
-        "img": "DDR/konami.png",
+        "img": "DDR/genom_screams.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8573,7 +8573,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Xepher",
-        "img": "DDR/konami.png",
+        "img": "DDR/xepher.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8583,7 +8583,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Electro Tuned(the SubS mix)",
-        "img": "DDR/konami.png",
+        "img": "DDR/electro_tuned(the_subs_mix).png",
         "opts": {
             "game": [
                 "DDR",
@@ -8611,7 +8611,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Din Don Dan",
-        "img": "DDR/konami.png",
+        "img": "DDR/din_don_dan.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8621,7 +8621,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Mikansei no jouki kudou otome",
-        "img": "DDR/konami.png",
+        "img": "DDR/mikansei_no_jouki_kudou_otome.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8631,7 +8631,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Himawari",
-        "img": "DDR/konami.png",
+        "img": "DDR/himawari.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8642,7 +8642,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BALLAD THE FEATHERS",
-        "img": "DDR/konami.png",
+        "img": "DDR/ballad_the_feathers.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8670,7 +8670,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "LOVE SHINE",
-        "img": "DDR/konami.png",
+        "img": "DDR/love_shine.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8681,7 +8681,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Concertino in Blue",
-        "img": "DDR/konami.png",
+        "img": "DDR/concertino_in_blue.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8792,7 +8792,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "White Stream",
-        "img": "DDR/konami.png",
+        "img": "DDR/white_stream.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8822,7 +8822,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kakumei",
-        "img": "DDR/konami.png",
+        "img": "DDR/kakumei.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8832,7 +8832,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chihou sousei chikuwactics",
-        "img": "DDR/konami.png",
+        "img": "DDR/chihou_sousei_chikuwactics.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8861,7 +8861,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kunshi ayauku mo chikou yore",
-        "img": "DDR/konami.png",
+        "img": "DDR/kunshi_ayauku_mo_chikou_yore.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8881,7 +8881,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Firestorm",
-        "img": "DDR/konami.png",
+        "img": "DDR/firestorm.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8891,7 +8891,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Heron",
-        "img": "DDR/konami.png",
+        "img": "DDR/heron.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8910,7 +8910,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Igaku",
-        "img": "DDR/konami.png",
+        "img": "DDR/igaku.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8920,7 +8920,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Love kira splash",
-        "img": "DDR/konami.png",
+        "img": "DDR/love_kira_splash.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8931,7 +8931,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Abyss",
-        "img": "DDR/konami.png",
+        "img": "DDR/abyss.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8941,7 +8941,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Nightbird lost wing",
-        "img": "DDR/konami.png",
+        "img": "DDR/nightbird_lost_wing.png",
         "opts": {
             "game": [
                 "DDR",
@@ -8978,7 +8978,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Under the Sky",
-        "img": "DDR/konami.png",
+        "img": "DDR/under_the_sky.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9006,7 +9006,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DoLL",
-        "img": "DDR/konami.png",
+        "img": "DDR/doll.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9016,7 +9016,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "TYCOON",
-        "img": "DDR/konami.png",
+        "img": "DDR/tycoon.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9054,7 +9054,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "I Love You",
-        "img": "DDR/konami.png",
+        "img": "DDR/i_love_you.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9064,7 +9064,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Setsujou danka",
-        "img": "DDR/konami.png",
+        "img": "DDR/setsujou_danka.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9083,7 +9083,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GAIA",
-        "img": "DDR/konami.png",
+        "img": "DDR/gaia.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9103,7 +9103,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SUPER SUMMER SALE",
-        "img": "DDR/konami.png",
+        "img": "DDR/super_summer_sale.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9123,7 +9123,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "HAPPY ANGEL",
-        "img": "DDR/konami.png",
+        "img": "DDR/happy_angel.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9169,7 +9169,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "VEGA",
-        "img": "DDR/konami.png",
+        "img": "DDR/vega.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9179,7 +9179,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Star Trail",
-        "img": "DDR/konami.png",
+        "img": "DDR/star_trail.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9261,7 +9261,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Quickening",
-        "img": "DDR/konami.png",
+        "img": "DDR/quickening.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9325,7 +9325,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fascination MAXX",
-        "img": "DDR/konami.png",
+        "img": "DDR/fascination_maxx.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9353,7 +9353,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Plan 8",
-        "img": "DDR/konami.png",
+        "img": "DDR/plan_8.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9364,7 +9364,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "True Blue",
-        "img": "DDR/konami.png",
+        "img": "DDR/true_blue.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9385,7 +9385,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "MVP",
-        "img": "DDR/konami.png",
+        "img": "DDR/mvp.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9422,7 +9422,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Polaris no uta",
-        "img": "DDR/konami.png",
+        "img": "DDR/polaris_no_uta.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9514,7 +9514,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Douwa kairou",
-        "img": "DDR/konami.png",
+        "img": "DDR/douwa_kairou.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9525,7 +9525,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hunny Bunny",
-        "img": "DDR/konami.png",
+        "img": "DDR/hunny_bunny.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9535,7 +9535,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Struggle",
-        "img": "DDR/konami.png",
+        "img": "DDR/struggle.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9554,7 +9554,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Dragon Blade",
-        "img": "DDR/konami.png",
+        "img": "DDR/dragon_blade.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9565,7 +9565,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Bag",
-        "img": "DDR/konami.png",
+        "img": "DDR/bag.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9575,7 +9575,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Gekkou chou",
-        "img": "DDR/konami.png",
+        "img": "DDR/gekkou_chou.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9621,7 +9621,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Lucky lucky",
-        "img": "DDR/konami.png",
+        "img": "DDR/lucky_lucky.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9659,7 +9659,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Super sentou Babanburn",
-        "img": "DDR/konami.png",
+        "img": "DDR/super_sentou_babanburn.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9680,7 +9680,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chikara",
-        "img": "DDR/konami.png",
+        "img": "DDR/chikara.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9699,7 +9699,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Never See You Again",
-        "img": "DDR/konami.png",
+        "img": "DDR/never_see_you_again.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9718,7 +9718,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Right on time (Ryu Remix)",
-        "img": "DDR/konami.png",
+        "img": "DDR/right_on_time_(ryu_remix).png",
         "opts": {
             "game": [
                 "DDR",
@@ -9738,7 +9738,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ayakashi kakushi",
-        "img": "DDR/konami.png",
+        "img": "DDR/ayakashi_kakushi.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9749,7 +9749,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Qwerty",
-        "img": "DDR/konami.png",
+        "img": "DDR/qwerty.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9813,7 +9813,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tenkuu no hana",
-        "img": "DDR/konami.png",
+        "img": "DDR/tenkuu_no_hana.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9823,7 +9823,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Cirno no perfect sansuu kyoushitsu",
-        "img": "DDR/konami.png",
+        "img": "DDR/cirno_no_perfect_sansuu_kyoushitsu.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9833,7 +9833,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Monkey Business",
-        "img": "DDR/konami.png",
+        "img": "DDR/monkey_business.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9843,7 +9843,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ubertreffen",
-        "img": "DDR/konami.png",
+        "img": "DDR/ubertreffen.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9853,7 +9853,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Squeeze",
-        "img": "DDR/konami.png",
+        "img": "DDR/squeeze.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9883,7 +9883,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "RED ZONE",
-        "img": "DDR/konami.png",
+        "img": "DDR/red_zone.png",
         "opts": {
             "game": [
                 "DDR",
@@ -9903,7 +9903,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sore wa hanabi no youna koi",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/sore_wa_hanabi_no_youna_koi.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -10056,7 +10056,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Idol",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/idol.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -10119,7 +10119,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Beautiful receipt",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/beautiful_receipt.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -10164,7 +10164,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Toy boxer",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/toy_boxer.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -10200,7 +10200,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "1116",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/1116.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -10209,7 +10209,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "THE PEERLESS UNDER HEAVEN",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/the_peerless_under_heaven.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -10335,7 +10335,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sakura Mirage",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/sakura_mirage.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -10344,7 +10344,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Memories (TAKA)",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/memories_(taka).png",
         "opts": {
             "game": [
                 "IIDX"
@@ -10389,7 +10389,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sennen no kotowari",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/sennen_no_kotowari.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -10452,7 +10452,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Megalara Garuda",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/megalara_garuda.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -10506,7 +10506,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Voltississimo",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/voltississimo.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -10542,7 +10542,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Globe Glitter",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/globe_glitter.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -10623,7 +10623,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Everlasting Message",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/everlasting_message.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -10713,7 +10713,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Scarlet Moon",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/scarlet_moon.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -10821,7 +10821,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "EMOTiON TRiPPER",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/emotion_tripper.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -10911,7 +10911,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Cookie Bouquets",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/cookie_bouquets.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -11019,7 +11019,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Take me higher",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/take_me_higher.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -11073,7 +11073,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kamippoina",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/kamippoina.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -11190,7 +11190,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Broken",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/broken.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -11388,7 +11388,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "2 Beasts Unchained",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/2_beasts_unchained.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -11613,7 +11613,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rabbit hole",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/rabbit_hole.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -11649,7 +11649,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sousei note",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/sousei_note.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -11676,7 +11676,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Elemental Creation",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/elemental_creation.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -11730,7 +11730,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fantasia",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/fantasia.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -11802,7 +11802,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ranker killer girl",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/ranker_killer_girl.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -11856,7 +11856,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Danmaku shinkou",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/danmaku_shinkou.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -11883,7 +11883,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Follow Tomorrow",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/follow_tomorrow.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -11901,7 +11901,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "IN THE NAME OF LOVE",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/in_the_name_of_love.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -11973,7 +11973,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Far east nightbird",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/far_east_nightbird.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -11982,7 +11982,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kagerou (Kanako Hoshino)",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/kagerou_(kanako_hoshino).png",
         "opts": {
             "game": [
                 "IIDX"
@@ -12099,7 +12099,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Angelic Jelly",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/angelic_jelly.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -12144,7 +12144,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "The Least 100sec",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/the_least_100sec.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -12153,7 +12153,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Umeyukiyo",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/umeyukiyo.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -12189,7 +12189,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Triple Cross",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/triple_cross.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -12351,7 +12351,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kurokami midareshi shura to narite",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/kurokami_midareshi_shura_to_narite.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -12540,7 +12540,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "High School Love",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/high_school_love.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -12621,7 +12621,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Bass 2 bass",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/bass_2_bass.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -12630,7 +12630,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kagonotori",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/kagonotori.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -12810,7 +12810,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sol Cosine Job 2",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/sol_cosine_job_2.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -12828,7 +12828,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Playing With Fire",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/playing_with_fire.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -12882,7 +12882,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ZEPHYRANTHES",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/zephyranthes.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13008,7 +13008,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SigSig",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/sigsig.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13017,7 +13017,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "TRIUMPH",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/triumph.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13026,7 +13026,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "AIR RAID FROM THA UNDAGROUND",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/air_raid_from_tha_undaground.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13035,7 +13035,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "I (Chroma)",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/i_(chroma).png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13089,7 +13089,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "KAISER PHOENIX",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/kaiser_phoenix.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13116,7 +13116,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Necroxis Girl",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/necroxis_girl.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13161,7 +13161,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "FLOWER",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/flower.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13296,7 +13296,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Flip Flap",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/flip_flap.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13305,7 +13305,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "IDENTITY",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/identity.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13377,7 +13377,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Daily Lunch Special",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/daily_lunch_special.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13413,7 +13413,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tamayura",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/tamayura.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13449,7 +13449,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Too Late Snow",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/too_late_snow.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13503,7 +13503,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Junshin karen desire",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/junshin_karen_desire.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13665,7 +13665,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Trill auf G",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/trill_auf_g.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13773,7 +13773,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Grand Chariot",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/grand_chariot.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13791,7 +13791,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Wuv U",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/wuv_u.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13809,7 +13809,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Alstroemeria",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/alstroemeria.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13872,7 +13872,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Caldwell 99",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/caldwell_99.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13971,7 +13971,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Vitrum",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/vitrum.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -13989,7 +13989,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "KING (Kanaria)",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/king_(kanaria).png",
         "opts": {
             "game": [
                 "IIDX"
@@ -14070,7 +14070,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "M1dy Deluxe",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/m1dy_deluxe.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -14088,7 +14088,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Verflucht",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/verflucht.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -14178,7 +14178,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "LIKE A VAMPIRE",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/like_a_vampire.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -14232,7 +14232,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Zanzou ni tsunagareta tsuioku no HIDEAWAY",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/zanzou_ni_tsunagareta_tsuioku_no_hideaway.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -14241,7 +14241,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sorrows",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/sorrows.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -14349,7 +14349,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ALBIDA",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/albida.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -14421,7 +14421,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rin to shite saku hana no gotoku",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/rin_to_shite_saku_hana_no_gotoku.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -14430,7 +14430,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Cleopatrysm",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/cleopatrysm.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -14484,7 +14484,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "StrayedCatz",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/strayedcatz.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -14511,7 +14511,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kodomo no rakugaki chou",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/kodomo_no_rakugaki_chou.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -14619,7 +14619,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DROP",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/drop.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -14637,7 +14637,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "532nm",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/532nm.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -14700,7 +14700,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ambivalent Vermilia",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/ambivalent_vermilia.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -14718,7 +14718,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DAY DREAM",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/day_dream.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -14754,7 +14754,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "KHAMEN BREAK",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/khamen_break.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -14817,7 +14817,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Perfect eater",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/perfect_eater.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -14835,7 +14835,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Quaver",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/quaver.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -14970,7 +14970,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chaos eater",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/chaos_eater.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -15024,7 +15024,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Carry Me Away",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/carry_me_away.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -15159,7 +15159,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ookina koe de",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/ookina_koe_de.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -15177,7 +15177,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Beastie Starter",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/beastie_starter.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -15258,7 +15258,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kyousui ichika",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/kyousui_ichika.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -15267,7 +15267,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Proof of the existence",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/proof_of_the_existence.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -15294,7 +15294,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Evans",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/evans.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -15303,7 +15303,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Slipstream",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/slipstream.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -15366,7 +15366,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "STULTI",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/stulti.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -15393,7 +15393,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Bounce Bounce Bounce",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/bounce_bounce_bounce.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -15474,7 +15474,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Little Star",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/little_star.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -15564,7 +15564,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "KAMAITACHI",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/kamaitachi.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -15591,7 +15591,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Oboro",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/oboro.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -15600,7 +15600,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Torikago no houou",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/torikago_no_houou.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -15708,7 +15708,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "STELLAR WIND",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/stellar_wind.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -15780,7 +15780,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Takaramono",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/takaramono.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -15852,7 +15852,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Romancing escape (song)",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/romancing_escape_(song).png",
         "opts": {
             "game": [
                 "IIDX"
@@ -15933,7 +15933,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Second Heaven",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/second_heaven.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -15942,7 +15942,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DUAL STRIKER",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/dual_striker.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -15960,7 +15960,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Waxing and wanding",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/waxing_and_wanding.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -16032,7 +16032,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Shounen wa sora wo tadoru",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/shounen_wa_sora_wo_tadoru.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -16149,7 +16149,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Boomy and The Boost",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/boomy_and_the_boost.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -16275,7 +16275,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sky High",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/sky_high.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -16302,7 +16302,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Catch Me",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/catch_me.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -16374,7 +16374,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "STEEL NEEDLE",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/steel_needle.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -16491,7 +16491,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "LUV CAN SAVE U",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/luv_can_save_u.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -16500,7 +16500,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Daisuke",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/daisuke.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -16563,7 +16563,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Yellow head joe",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/yellow_head_joe.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -16608,7 +16608,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "She is my wife",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/she_is_my_wife.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -16626,7 +16626,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "V",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/v.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -16635,7 +16635,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "PUNISHER",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/punisher.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -16779,7 +16779,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Mirage residence",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/mirage_residence.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -16788,7 +16788,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Suspicions",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/suspicions.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -16869,7 +16869,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Glacia",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/glacia.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -16923,7 +16923,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "The Clown of 24stairs",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/the_clown_of_24stairs.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -16995,7 +16995,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Virus Funk",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/virus_funk.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -17040,7 +17040,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sounds Of Summer",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/sounds_of_summer.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -17049,7 +17049,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Synergy For Angels",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/synergy_for_angels.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -17094,7 +17094,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Squall",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/squall.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -17139,7 +17139,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Shounen ripples",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/shounen_ripples.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -17427,7 +17427,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fallen leaves",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/fallen_leaves.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -17553,7 +17553,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Unbelief",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/unbelief.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -17580,7 +17580,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Valanga",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/valanga.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -17706,7 +17706,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Darling my LUV",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/darling_my_luv.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -17724,7 +17724,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Wadatsumi",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/wadatsumi.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -17733,7 +17733,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "TOXIC VIBRATION",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/toxic_vibration.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -17778,7 +17778,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Babylonia",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/babylonia.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -17904,7 +17904,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "WONDER WALKER",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/wonder_walker.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -17931,7 +17931,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "IX",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/ix.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -17949,7 +17949,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Passionate fate",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/passionate_fate.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -17994,7 +17994,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "If",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/if.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -18066,7 +18066,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Saishou sanbai kanzensuu",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/saishou_sanbai_kanzensuu.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -18147,7 +18147,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Light Shine",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/light_shine.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -18201,7 +18201,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Smooooch",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/smooooch.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -18273,7 +18273,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Midnight WAR",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/midnight_war.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -18291,7 +18291,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "JOMANDA",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/jomanda.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -18309,7 +18309,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kyuubiko yagyou",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/kyuubiko_yagyou.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -18345,7 +18345,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DIAVOLO",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/diavolo.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -18354,7 +18354,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Special One",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/special_one.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -18435,7 +18435,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ryoushi no umi no Lindwurm",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/ryoushi_no_umi_no_lindwurm.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -18453,7 +18453,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Neu",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/neu.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -18498,7 +18498,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Triple Counter",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/triple_counter.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -18516,7 +18516,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Harmonia",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/harmonia.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -18534,7 +18534,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "In The Breeze",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/in_the_breeze.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -18723,7 +18723,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "POINT ZERO",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/point_zero.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -18741,7 +18741,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Snow Goose",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/snow_goose.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -18786,7 +18786,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Vermilion",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/vermilion.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -18867,7 +18867,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "COSMIC V3LOCITY",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/cosmic_v3locity.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -18903,7 +18903,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Engraved Mark",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/engraved_mark.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -18975,7 +18975,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fegrix",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/fegrix.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -19011,7 +19011,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fly Above",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/fly_above.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -19020,7 +19020,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Pink Rose",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/pink_rose.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -19083,7 +19083,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chronos",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/chronos.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -19119,7 +19119,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "HYENA",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/hyena.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -19146,7 +19146,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BLUE STRAGGLER",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/blue_straggler.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -19191,7 +19191,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Koko kara yoroshiku daisakusen 143",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/koko_kara_yoroshiku_daisakusen_143.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -19362,7 +19362,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SHION",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/shion.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -19398,7 +19398,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Surf on the Light",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/surf_on_the_light.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -19470,7 +19470,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Dadadadadadadadadada",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/dadadadadadadadadada.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -19515,7 +19515,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "EXUSIA",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/exusia.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -19596,7 +19596,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hollywood Galaxy",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/hollywood_galaxy.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -19686,7 +19686,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BEYOND THE EARTH",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/beyond_the_earth.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -19749,7 +19749,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Wakusei lollipop",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/wakusei_lollipop.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -19776,7 +19776,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Nostos",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/nostos.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -19839,7 +19839,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sayonara heaven",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/sayonara_heaven.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -19875,7 +19875,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "VOLAQUAS",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/volaquas.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -19884,7 +19884,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Nemuri no kuni no Stella",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/nemuri_no_kuni_no_stella.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -19911,7 +19911,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ryuu to shoujo to decoherence",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/ryuu_to_shoujo_to_decoherence.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20055,7 +20055,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ZED",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/zed.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20145,7 +20145,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Planarian",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/planarian.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20154,7 +20154,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Astraia no soubei",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/astraia_no_soubei.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20181,7 +20181,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Heisokuteki flation",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/heisokuteki_flation.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20244,7 +20244,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BLACK JACKAL",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/black_jackal.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20262,7 +20262,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "TIEFSEE",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/tiefsee.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20271,7 +20271,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sephirot",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/sephirot.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20298,7 +20298,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Souhait bleu",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/souhait_bleu.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20379,7 +20379,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Remember remember",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/remember_remember.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20406,7 +20406,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "POSSESSION",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/possession.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20478,7 +20478,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Freeway Shuffle",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/freeway_shuffle.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20496,7 +20496,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Aftermath",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/aftermath.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20505,7 +20505,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Shakunetsu Beach Side Bunny",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/shakunetsu_beach_side_bunny.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20514,7 +20514,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Lilieze to enryuu Laevateinn",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/lilieze_to_enryuu_laevateinn.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20541,7 +20541,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Goodbye sengen",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/goodbye_sengen.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20586,7 +20586,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rinne no karasu",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/rinne_no_karasu.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20649,7 +20649,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "REVOLVER",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/revolver.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20676,7 +20676,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "405nm (Ryu mix)",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/405nm_(ryu_mix).png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20694,7 +20694,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Encounter",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/encounter.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20712,7 +20712,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Deadball de homerun",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/deadball_de_homerun.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20748,7 +20748,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BambooSword Girl",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/bamboosword_girl.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20757,7 +20757,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Timepiece phase II",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/timepiece_phase_ii.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20865,7 +20865,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Scars of FAUNA",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/scars_of_fauna.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -20955,7 +20955,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Idola",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/idola.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -21045,7 +21045,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Stylus",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/stylus.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -21090,7 +21090,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Double thrash",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/double_thrash.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -21252,7 +21252,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Himawari",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/himawari.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -21279,7 +21279,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ANEMONE",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/anemone.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -21288,7 +21288,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "LOVE SHINE",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/love_shine.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -21297,7 +21297,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Concertino in Blue",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/concertino_in_blue.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -21405,7 +21405,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ZZ",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/zz.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -21423,7 +21423,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Discloze",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/discloze.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -21720,7 +21720,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rage against usual",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/rage_against_usual.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -21765,7 +21765,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Love kira splash",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/love_kira_splash.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -21819,7 +21819,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Meikyoushisui",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/meikyoushisui.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -21945,7 +21945,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GAIA",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/gaia.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -22017,7 +22017,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rainbow after snow",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/rainbow_after_snow.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -22251,7 +22251,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Plan 8",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/plan_8.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -22260,7 +22260,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "True Blue",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/true_blue.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -22332,7 +22332,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "7 Colors",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/7_colors.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -22341,7 +22341,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Polaris no uta",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/polaris_no_uta.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -22368,7 +22368,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Macuilxochitl",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/macuilxochitl.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -22440,7 +22440,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Douwa kairou",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/douwa_kairou.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -22458,7 +22458,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Confiserie",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/confiserie.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -22530,7 +22530,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Xb10r",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/xb10r.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -22584,7 +22584,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Lucky lucky",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/lucky_lucky.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -22593,7 +22593,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Super sentou Babanburn",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/super_sentou_babanburn.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -22620,7 +22620,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Agnus Dei",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/agnus_dei.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -22665,7 +22665,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ayakashi kakushi",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/ayakashi_kakushi.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -22692,7 +22692,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Donut hole",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/donut_hole.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -22791,7 +22791,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Squeeze",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/squeeze.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -22818,7 +22818,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "RED ZONE",
-        "img": "IIDX/konami.png",
+        "img": "IIDX/red_zone.png",
         "opts": {
             "game": [
                 "IIDX"
@@ -22827,7 +22827,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "プナイプナイたいそう",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/プナイプナイたいそう.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -22836,7 +22836,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "スカーレット警察のゲットーパトロール24時",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/スカーレット警察のゲットーパトロール24時.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -22863,7 +22863,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ENDGAME",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/endgame.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -22881,7 +22881,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SHARK ATTACK",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/shark_attack.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -22899,7 +22899,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "WILD FIRE",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/wild_fire.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -22953,7 +22953,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "夢幻泡影",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/夢幻泡影.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23007,7 +23007,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ステラレギア",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/ステラレギア.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23025,7 +23025,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Corrupting Wonderland",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/corrupting_wonderland.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23043,7 +23043,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "REFLEC BEAT colette -Spring-",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/reflec_beat_colette_-spring-.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23052,7 +23052,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "beatmania IIDX 14 GOLD",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/beatmania_iidx_14_gold.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23061,7 +23061,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "REFLEC BEAT VOLZZA",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/reflec_beat_volzza.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23106,7 +23106,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Snowmelt",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/snowmelt.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23115,7 +23115,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "HALO",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/halo.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23142,7 +23142,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Love Love Scarlet",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/love_love_scarlet.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23160,7 +23160,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "MURASAME",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/murasame.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23232,7 +23232,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Whip☆Drip",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/whip☆drip.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23286,7 +23286,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Vanishing Eidos",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/vanishing_eidos.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23295,7 +23295,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "The Clown of 24stairs",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/the_clown_of_24stairs.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23304,7 +23304,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "イヤホンロマンス",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/イヤホンロマンス.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23322,7 +23322,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ROZELCIA",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/rozelcia.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23340,7 +23340,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "天弓天華オトハナビ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/天弓天華オトハナビ.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23358,7 +23358,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "I Left for my Right",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/i_left_for_my_right.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23385,7 +23385,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Foolish Hero",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/foolish_hero.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23394,7 +23394,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "crazy cinema story",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/crazy_cinema_story.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23403,7 +23403,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "デンデラパーティーナイト",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/デンデラパーティーナイト.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23412,7 +23412,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "The King Of Red",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/the_king_of_red.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23448,7 +23448,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Grandeur",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/grandeur.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23457,7 +23457,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BEAT MAGIC",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/beat_magic.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23475,7 +23475,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "WINNING ROAD",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/winning_road.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23484,7 +23484,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hurt me plenty",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/hurt_me_plenty.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23502,7 +23502,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "りむむむむむむ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/りむむむむむむ.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23520,7 +23520,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "THE WORLD REVOLVING",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/the_world_revolving.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23538,7 +23538,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "零天視",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/零天視.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23547,7 +23547,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Memory Flow",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/memory_flow.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23565,7 +23565,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "十の試練",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/十の試練.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23619,7 +23619,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "アルファ・スカイ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/アルファ・スカイ.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23628,7 +23628,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Test Flight",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/test_flight.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23637,7 +23637,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "beatmania IIDX 10th style",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/beatmania_iidx_10th_style.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23655,7 +23655,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "マーメイドペレパスィ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/マーメイドペレパスィ.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23700,7 +23700,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ヒトガタ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/ヒトガタ.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23709,7 +23709,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Awakening Wings",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/awakening_wings.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23718,7 +23718,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "神にした彼女が示す世界線",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/神にした彼女が示す世界線.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23745,7 +23745,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "赫焉",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/赫焉.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23772,7 +23772,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Xymatic Scope",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/xymatic_scope.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23781,7 +23781,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "キャプテン・マリンのケツアンカー",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/キャプテン・マリンのケツアンカー.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23790,7 +23790,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Revvable Engine",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/revvable_engine.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23799,7 +23799,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Devastated Territory",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/devastated_territory.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23826,7 +23826,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ぶいちゅっばの歌",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/ぶいちゅっばの歌.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23844,7 +23844,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "2 Beasts Unchained",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/2_beasts_unchained.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23853,7 +23853,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ホイホイ☆幻想ホロイズム",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/ホイホイ☆幻想ホロイズム.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23880,7 +23880,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "斑咲花",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/斑咲花.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23889,7 +23889,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fiat Lux",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/fiat_lux.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23898,7 +23898,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kontrol Line",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/kontrol_line.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23907,7 +23907,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "PLANISPHERE",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/planisphere.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23925,7 +23925,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Twinkle Rookie",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/twinkle_rookie.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23979,7 +23979,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "イグノアザーズ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/イグノアザーズ.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -23997,7 +23997,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Realize",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/realize.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24015,7 +24015,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ice Fortress",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/ice_fortress.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24024,7 +24024,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fαtα∠ Ent∠mEnt",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/fαtα∠_ent∠ment.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24060,7 +24060,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "スーパー戦湯ババンバーン",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/スーパー戦湯ババンバーン.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24069,7 +24069,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Bad Elixir",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/bad_elixir.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24078,7 +24078,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Foolish Again",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/foolish_again.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24105,7 +24105,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "€omet popcorn",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/€omet_popcorn.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24123,7 +24123,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "シュガーソングとビターステップ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/シュガーソングとビターステップ.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24132,7 +24132,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "チクサクコールが懐かしい",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/チクサクコールが懐かしい.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24168,7 +24168,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "#Namescapes",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/_namescapes.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24177,7 +24177,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "キラメキ居残り大戦争",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/キラメキ居残り大戦争.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24204,7 +24204,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Verstärkt Killer",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/verstärkt_killer.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24213,7 +24213,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "REFLEC BEAT colette -Winter-",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/reflec_beat_colette_-winter-.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24240,7 +24240,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Battle Against a True Hero / 本物のヒーローとの闘い",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/battle_against_a_true_hero___本物のヒーローとの闘い.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24249,7 +24249,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Lieselotte",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/lieselotte.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24258,7 +24258,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ИADIR",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/иadir.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24267,7 +24267,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "デッドボヲルdeホームラン",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/デッドボヲルdeホームラン.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24285,7 +24285,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Death by Glamour / 華麗なる死闘",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/death_by_glamour___華麗なる死闘.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24330,7 +24330,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Triple Cross",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/triple_cross.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24339,7 +24339,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "MEGALOVANIA",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/megalovania.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24357,7 +24357,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "KINGWORLD",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/kingworld.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24366,7 +24366,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Decadence Mission",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/decadence_mission.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24429,7 +24429,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "LUCKY CAT",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/lucky_cat.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24438,7 +24438,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "物凄い勢いでけーねが物凄いうた",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/物凄い勢いでけーねが物凄いうた.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24447,7 +24447,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SuddeИDeath",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/suddeиdeath.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24456,7 +24456,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "charm♡you",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/charm♡you.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24483,7 +24483,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "紫焔双穿",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/紫焔双穿.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24501,7 +24501,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DEUX EX MĀXHINĀ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/deux_ex_māxhinā.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24546,7 +24546,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "suspicions",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/suspicions.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24555,7 +24555,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "メズマライザー",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/メズマライザー.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24609,7 +24609,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Spear of Justice / 正義の槍",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/spear_of_justice___正義の槍.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24627,7 +24627,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "pop'n music 16 PARTY♪",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/pop'n_music_16_party♪.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24645,7 +24645,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Metagame Matador",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/metagame_matador.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24654,7 +24654,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Happiness World",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/happiness_world.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24663,7 +24663,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Cappuccino Hearts",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/cappuccino_hearts.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24672,7 +24672,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "勇者の卒業式",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/勇者の卒業式.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24681,7 +24681,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "2094",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/2094.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24744,7 +24744,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Continuous Moment",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/continuous_moment.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24753,7 +24753,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "門門しましょ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/門門しましょ.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24762,7 +24762,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "HYENA",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/hyena.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24771,7 +24771,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Initiating League",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/initiating_league.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24789,7 +24789,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "二分間の世界",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/二分間の世界.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24807,7 +24807,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Bigbang Faker",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/bigbang_faker.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24825,7 +24825,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "涙の女神と無形のエトワル",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/涙の女神と無形のエトワル.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24852,7 +24852,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "すべてが幻になった後で",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/すべてが幻になった後で.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24942,7 +24942,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Wings to fly high",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/wings_to_fly_high.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24960,7 +24960,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "jubeat prop",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/jubeat_prop.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24969,7 +24969,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "refluxio",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/refluxio.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -24978,7 +24978,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "beatmania IIDX 21 SPADA",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/beatmania_iidx_21_spada.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25023,7 +25023,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "VALKYRIE ASSAULT",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/valkyrie_assault.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25041,7 +25041,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "QQ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/qq.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25050,7 +25050,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "REFLEC BEAT 悠久のリフレシア",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/reflec_beat_悠久のリフレシア.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25059,7 +25059,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "End of Guilty",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/end_of_guilty.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25077,7 +25077,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "群青纏う朱の槍",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/群青纏う朱の槍.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25104,7 +25104,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ASGORE / アズゴア",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/asgore___アズゴア.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25113,7 +25113,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Holy Trail",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/holy_trail.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25122,7 +25122,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Heartache / 心の痛み",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/heartache___心の痛み.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25149,7 +25149,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Archangelio",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/archangelio.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25158,7 +25158,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "NEMSYS ARENA World Hexathlon",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/nemsys_arena_world_hexathlon.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25176,7 +25176,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "メテオライツ・プレリュード",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/メテオライツ・プレリュード.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25185,7 +25185,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rhapsody ⚙︎f Triumph",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/rhapsody_⚙︎f_triumph.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25194,7 +25194,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Le Fruit Défendu",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/le_fruit_défendu.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25239,7 +25239,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "NOT YOUR IDOL",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/not_your_idol.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25266,7 +25266,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "VOLAQUAS",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/volaquas.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25284,7 +25284,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "beatmania IIDX 28 BISTROVER",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/beatmania_iidx_28_bistrover.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25311,7 +25311,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "beatmania IIDX 29 CastHour",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/beatmania_iidx_29_casthour.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25320,7 +25320,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "響く静寂",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/響く静寂.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25329,7 +25329,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "カシオペアノヒカリ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/カシオペアノヒカリ.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25338,7 +25338,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "文月",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/文月.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25347,7 +25347,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "MILITARY R04D",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/military_r04d.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25365,7 +25365,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "藍の華",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/藍の華.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25374,7 +25374,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "veRtrageS",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/vertrages.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25392,7 +25392,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "累乗のカルマ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/累乗のカルマ.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25410,7 +25410,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "jubeat ripples APPEND",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/jubeat_ripples_append.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25419,7 +25419,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "PHOTON BLAXT",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/photon_blaxt.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25437,7 +25437,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Caldwell 99",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/caldwell_99.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25455,7 +25455,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ボルテ体操第一",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/ボルテ体操第一.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25473,7 +25473,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "G4ME ØVEЯ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/g4me_øveя.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25500,7 +25500,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Spider Dance / スパイダーダンス",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/spider_dance___スパイダーダンス.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25509,7 +25509,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "パーフェクトイーター",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/パーフェクトイーター.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25527,7 +25527,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ステラ・イミグレーション",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/ステラ・イミグレーション.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25536,7 +25536,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "VɅZiLiSQ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/vʌzilisq.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25545,7 +25545,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "smooooch・∀・ KN mix",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/smooooch・∀・_kn_mix.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25554,7 +25554,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ちくわパフェだよ☆ＣＫＰ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/ちくわパフェだよ☆ｃｋｐ.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25590,7 +25590,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Paradigm Shift",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/paradigm_shift.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25626,7 +25626,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Souhait bleu",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/souhait_bleu.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25635,7 +25635,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "FEEL THE FORCE",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/feel_the_force.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25671,7 +25671,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "CUDDLIE CUDDLIE",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/cuddlie_cuddlie.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25689,7 +25689,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "限界突破リザレクション",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/限界突破リザレクション.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25698,7 +25698,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ユメブキ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/ユメブキ.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25707,7 +25707,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SOUL EXPLOSION",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/soul_explosion.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25752,7 +25752,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "STIGMA",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/stigma.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25761,7 +25761,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Aftermath",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/aftermath.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25770,7 +25770,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "LIKE A VAMPIRE",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/like_a_vampire.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25788,7 +25788,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "フェアリーテイル・ラヴァーズ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/フェアリーテイル・ラヴァーズ.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25806,7 +25806,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Candy Colored Hearts",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/candy_colored_hearts.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25869,7 +25869,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Jailbreaker",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/jailbreaker.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25905,7 +25905,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Unleashed Redness",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/unleashed_redness.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25914,7 +25914,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "only my railgun",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/only_my_railgun.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25923,7 +25923,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ナナホシのうた",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/ナナホシのうた.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25950,7 +25950,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "XHRONOXAPSULΞ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/xhronoxapsulξ.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25968,7 +25968,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chant du Cygne",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/chant_du_cygne.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25977,7 +25977,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "WARNING×WARNING×WARNING",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/warning×warning×warning.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -25986,7 +25986,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "竹",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/竹.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26004,7 +26004,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Scat Jazz Dance",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/scat_jazz_dance.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26040,7 +26040,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "sparky spark",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/sparky_spark.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26067,7 +26067,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Stylus",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/stylus.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26076,7 +26076,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Innocent Azure",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/innocent_azure.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26130,7 +26130,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ambivalent Vermilia",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/ambivalent_vermilia.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26166,7 +26166,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Thousand Triggers",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/thousand_triggers.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26193,7 +26193,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "最果ての勇者にラブソングを",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/最果ての勇者にラブソングを.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26220,7 +26220,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "世界はネコのもの",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/世界はネコのもの.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26274,7 +26274,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chronomia",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/chronomia.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26283,7 +26283,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "強風オールバック",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/強風オールバック.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26328,7 +26328,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sayonara Planet Wars",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/sayonara_planet_wars.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26346,7 +26346,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "XXanadu#climaXX",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/xxanadu_climaxx.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26409,7 +26409,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "蝕",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/蝕.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26445,7 +26445,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "月下の舞兎祭",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/月下の舞兎祭.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26454,7 +26454,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "All for One",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/all_for_one.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26472,7 +26472,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chat perché",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/chat_perché.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26508,7 +26508,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "黎明の情",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/黎明の情.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26517,7 +26517,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Lost Parliament",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/lost_parliament.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26553,7 +26553,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Destr0yer",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/destr0yer.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26562,7 +26562,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "光風霽月",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/光風霽月.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26571,7 +26571,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "火狐之舞",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/火狐之舞.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26598,7 +26598,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SuperMiracleEnsemble",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/supermiracleensemble.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26607,7 +26607,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "いまきみに",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/いまきみに.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26652,7 +26652,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Garland",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/garland.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26661,7 +26661,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "REFLEC BEAT groovin'!!",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/reflec_beat_groovin'!!.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26670,7 +26670,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "トランスダンスアナーキー",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/トランスダンスアナーキー.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26679,7 +26679,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Your SOUL Is Mine",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/your_soul_is_mine.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26697,7 +26697,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "驪駒早鬼は馬並み☆プロテイン",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/驪駒早鬼は馬並み☆プロテイン.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26715,7 +26715,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Across the Starlight",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/across_the_starlight.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26733,7 +26733,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "EMPIRE OF FLAME",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/empire_of_flame.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26760,7 +26760,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "運命超過乃巡合",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/運命超過乃巡合.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26805,7 +26805,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Bonetrousle",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/bonetrousle.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26823,7 +26823,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "The star in eclipse",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/the_star_in_eclipse.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26841,7 +26841,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "到達してしまった僕らと夢と希望の最之果",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/到達してしまった僕らと夢と希望の最之果.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26877,7 +26877,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "PRESERVED VAMPIRE",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/preserved_vampire.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26886,7 +26886,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "孤月群雲に沈む",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/孤月群雲に沈む.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26895,7 +26895,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "恋は君のそばでサクラサク",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/恋は君のそばでサクラサク.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26904,7 +26904,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SAVE the World",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/save_the_world.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26913,7 +26913,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "neu BSP style",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/neu_bsp_style.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26949,7 +26949,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Over the Border",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/over_the_border.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26967,7 +26967,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Stairway to the sun",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/stairway_to_the_sun.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -26985,7 +26985,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Petit espoir",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/petit_espoir.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27003,7 +27003,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "イエルウタ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/イエルウタ.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27012,7 +27012,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "jubeat festo",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/jubeat_festo.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27048,7 +27048,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "MixxioN",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/mixxion.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27057,7 +27057,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "jubeat copious",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/jubeat_copious.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27066,7 +27066,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Enter The Fire",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/enter_the_fire.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27084,7 +27084,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Vallasotiena",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/vallasotiena.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27093,7 +27093,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ØƵ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/øƶ.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27165,7 +27165,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Restless Waitress",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/restless_waitress.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27174,7 +27174,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Xb10r",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/xb10r.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27192,7 +27192,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "FAR GONE",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/far_gone.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27201,7 +27201,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Avalanx",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/avalanx.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27210,7 +27210,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Empty Backdoor",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/empty_backdoor.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27228,7 +27228,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Heroine is here",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/heroine_is_here.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27246,7 +27246,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "beatmania IIDX 24 SINOBUZ",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/beatmania_iidx_24_sinobuz.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27282,7 +27282,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ディスコルディア",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/ディスコルディア.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27291,7 +27291,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Imperator",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/imperator.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27309,7 +27309,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Glory of Fighters",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/glory_of_fighters.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27336,7 +27336,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "#EmoCloche",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/_emocloche.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27345,7 +27345,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "beatmania IIDX 19 Lincle",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/beatmania_iidx_19_lincle.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27354,7 +27354,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Destined Marionette",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/destined_marionette.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27363,7 +27363,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Struggle for Revival",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/struggle_for_revival.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27381,7 +27381,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "まみむめ🍄まるっと🍄まっしゅるーむ🍄🍄",
-        "img": "SDVX/konami.png",
+        "img": "SDVX/まみむめ🍄まるっと🍄まっしゅるーむ🍄🍄.png",
         "opts": {
             "game": [
                 "SDVX"
@@ -27435,7 +27435,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "PULSE LASER",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/pulse_laser.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -27498,7 +27498,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "citrus",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/citrus.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -27534,7 +27534,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Life is Beautiful",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/life_is_beautiful.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -27660,7 +27660,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "PUNISHER",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/punisher.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -27912,7 +27912,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Foolish Hero",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/foolish_hero.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -27930,7 +27930,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "crazy cinema story",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/crazy_cinema_story.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -28020,7 +28020,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Four Leaves",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/four_leaves.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -28155,7 +28155,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Runway Drive",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/runway_drive.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -28254,7 +28254,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Finally Dive",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/finally_dive.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -28407,7 +28407,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "TOXIC VIBRATION",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/toxic_vibration.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -28506,7 +28506,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fiat Lux",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/fiat_lux.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -28605,7 +28605,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "IX",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/ix.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -28677,7 +28677,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "If",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/if.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -28695,7 +28695,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Prayer",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/prayer.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -28884,7 +28884,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Gott",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/gott.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -28902,7 +28902,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Lieselotte",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/lieselotte.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -28920,7 +28920,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "デッドボヲルdeホームラン",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/デッドボヲルdeホームラン.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -29019,7 +29019,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "MEGALOVANIA",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/megalovania.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -29073,7 +29073,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "In The Breeze",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/in_the_breeze.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -29172,7 +29172,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Crack Traxxxx",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/crack_traxxxx.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -29253,7 +29253,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Silent Story",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/silent_story.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -29325,7 +29325,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Engraved Mark",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/engraved_mark.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -29523,7 +29523,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "HYENA",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/hyena.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -29676,7 +29676,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "FIRE IN MY HEART",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/fire_in_my_heart.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -29811,7 +29811,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "QQ",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/qq.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -30027,7 +30027,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Le Fruit Défendu",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/le_fruit_défendu.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -30054,7 +30054,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Dynasty",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/dynasty.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -30081,7 +30081,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Lovesick Lovetune",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/lovesick_lovetune.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -30216,7 +30216,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Last Concerto",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/last_concerto.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -30270,7 +30270,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Joyeuse",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/joyeuse.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -30288,7 +30288,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Caldwell 99",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/caldwell_99.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -30297,7 +30297,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ボルテ体操第一",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/ボルテ体操第一.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -30504,7 +30504,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Stella Sinistra",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/stella_sinistra.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -30558,7 +30558,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SOUL EXPLOSION",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/soul_explosion.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -30639,7 +30639,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chocolate Planet",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/chocolate_planet.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -30738,7 +30738,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Candy Colored Hearts",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/candy_colored_hearts.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -30828,7 +30828,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Cleopatrysm",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/cleopatrysm.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -30855,7 +30855,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DesireDrive",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/desiredrive.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -30882,7 +30882,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Unicorn tail Dustboxxxx RMX",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/unicorn_tail_dustboxxxx_rmx.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -30927,7 +30927,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chant du Cygne",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/chant_du_cygne.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -31098,7 +31098,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Stylus",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/stylus.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -31188,7 +31188,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "KHAMEN BREAK",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/khamen_break.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -31296,7 +31296,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sayonara Planet Wars",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/sayonara_planet_wars.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -31647,7 +31647,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "croiX",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/croix.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -31674,7 +31674,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "TYCOON",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/tycoon.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -31746,7 +31746,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Bonetrousle",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/bonetrousle.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -31782,7 +31782,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "The star in eclipse",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/the_star_in_eclipse.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -31809,7 +31809,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "到達してしまった僕らと夢と希望の最之果",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/到達してしまった僕らと夢と希望の最之果.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -32178,7 +32178,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Apex of the World",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/apex_of_the_world.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -32295,7 +32295,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Squeeze",
-        "img": "SDVX-KO/konami.png",
+        "img": "SDVX-KO/squeeze.png",
         "opts": {
             "game": [
                 "SDVX-KO"
@@ -32511,7 +32511,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fly far bounce",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/fly_far_bounce.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -32709,7 +32709,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "NEON WORLD",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/neon_world.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -32718,7 +32718,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Synergy For Angels",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/synergy_for_angels.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -32772,7 +32772,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Scarlet Moon",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/scarlet_moon.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -33006,7 +33006,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Awakening Wings",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/awakening_wings.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -33042,7 +33042,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Nebulas",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/nebulas.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -33051,7 +33051,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Knights Assault",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/knights_assault.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -33078,7 +33078,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "voltississimo",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/voltississimo.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -33141,7 +33141,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "toy boxer",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/toy_boxer.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -33204,7 +33204,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "birth",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/birth.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -33384,7 +33384,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Jetcoaster Windy",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/jetcoaster_windy.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -33438,7 +33438,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "JOMANDA",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/jomanda.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -33564,7 +33564,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Triple Cross",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/triple_cross.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -33582,7 +33582,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Harmonia",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/harmonia.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -33780,7 +33780,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "New Decade",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/new_decade.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -33942,7 +33942,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "HYENA",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/hyena.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -33951,7 +33951,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Six String Proof",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/six_string_proof.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -33996,7 +33996,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Aerial Skydive",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/aerial_skydive.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -34239,7 +34239,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "freaky freak",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/freaky_freak.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -34311,7 +34311,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Flip Flap",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/flip_flap.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -34419,7 +34419,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Virtual Bit",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/virtual_bit.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -34464,7 +34464,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Trill auf G",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/trill_auf_g.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -34473,7 +34473,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "VOLAQUAS",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/volaquas.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -34509,7 +34509,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Grand Chariot",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/grand_chariot.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -34734,7 +34734,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ΕΛΠΙΣ",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/ελπις.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -34761,7 +34761,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BLACK JACKAL",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/black_jackal.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -34788,7 +34788,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sephirot",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/sephirot.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -34797,7 +34797,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Paradigm Shift",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/paradigm_shift.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -34995,7 +34995,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Aftermath",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/aftermath.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -35013,7 +35013,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "LIKE A VAMPIRE",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/like_a_vampire.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -35292,7 +35292,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Empathetic",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/empathetic.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -35454,7 +35454,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "MANDARA",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/mandara.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -35634,7 +35634,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "White Stream",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/white_stream.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -36093,7 +36093,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "True Blue",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/true_blue.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -36282,7 +36282,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Our Love",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/our_love.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -36579,7 +36579,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Symphonic Tear",
-        "img": "SDVX-KO-MP/konami.png",
+        "img": "SDVX-KO-MP/symphonic_tear.png",
         "opts": {
             "game": [
                 "SDVX-KO-MP"
@@ -36660,7 +36660,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ANEMONE",
-        "img": "POPN/konami.png",
+        "img": "POPN/anemone.png",
         "opts": {
             "game": [
                 "POPN"
@@ -36750,7 +36750,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "CRAZY ARTS",
-        "img": "POPN/konami.png",
+        "img": "POPN/crazy_arts.png",
         "opts": {
             "game": [
                 "POPN"
@@ -36921,7 +36921,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "beatmania IIDX 28 BISTROVER",
-        "img": "POPN/beatmania_iidx_28_bistrover.png",
+        "img": "POPN/konami.png",
         "opts": {
             "game": [
                 "POPN"
@@ -36939,7 +36939,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "only my railgun",
-        "img": "POPN/konami.png",
+        "img": "POPN/only_my_railgun.png",
         "opts": {
             "game": [
                 "POPN"
@@ -37110,7 +37110,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Amazing Bomberman",
-        "img": "POPN/konami.png",
+        "img": "POPN/amazing_bomberman.png",
         "opts": {
             "game": [
                 "POPN"
@@ -37128,7 +37128,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hexer",
-        "img": "POPN/konami.png",
+        "img": "POPN/hexer.png",
         "opts": {
             "game": [
                 "POPN"
@@ -37137,7 +37137,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Stylus",
-        "img": "POPN/konami.png",
+        "img": "POPN/stylus.png",
         "opts": {
             "game": [
                 "POPN"
@@ -37236,7 +37236,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "COSMIC SYMPHONY",
-        "img": "GITA/konami.png",
+        "img": "GITA/cosmic_symphony.png",
         "opts": {
             "game": [
                 "GITA"
@@ -37263,7 +37263,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "FIREBALL",
-        "img": "GITA/konami.png",
+        "img": "GITA/fireball.png",
         "opts": {
             "game": [
                 "GITA"
@@ -37407,7 +37407,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hoshiyadoru sora no shita de",
-        "img": "GITA/konami.png",
+        "img": "GITA/hoshiyadoru_sora_no_shita_de.png",
         "opts": {
             "game": [
                 "GITA"
@@ -37416,7 +37416,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ame nochi Hello",
-        "img": "GITA/konami.png",
+        "img": "GITA/ame_nochi_hello.png",
         "opts": {
             "game": [
                 "GITA"
@@ -37461,7 +37461,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Duality",
-        "img": "GITA/konami.png",
+        "img": "GITA/duality.png",
         "opts": {
             "game": [
                 "GITA"
@@ -37605,7 +37605,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fly far bounce",
-        "img": "GITA/konami.png",
+        "img": "GITA/fly_far_bounce.png",
         "opts": {
             "game": [
                 "GITA"
@@ -37677,7 +37677,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kono ko no nanatsu no oiwai ni",
-        "img": "GITA/konami.png",
+        "img": "GITA/kono_ko_no_nanatsu_no_oiwai_ni.png",
         "opts": {
             "game": [
                 "GITA"
@@ -37740,7 +37740,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Metsubou tenshi nikokyuppin",
-        "img": "GITA/konami.png",
+        "img": "GITA/metsubou_tenshi_nikokyuppin.png",
         "opts": {
             "game": [
                 "GITA"
@@ -37785,7 +37785,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Suigetsukyouka no connotation",
-        "img": "GITA/konami.png",
+        "img": "GITA/suigetsukyouka_no_connotation.png",
         "opts": {
             "game": [
                 "GITA"
@@ -37803,7 +37803,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Slang",
-        "img": "GITA/konami.png",
+        "img": "GITA/slang.png",
         "opts": {
             "game": [
                 "GITA"
@@ -37839,7 +37839,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Lost one no goukoku",
-        "img": "GITA/konami.png",
+        "img": "GITA/lost_one_no_goukoku.png",
         "opts": {
             "game": [
                 "GITA"
@@ -37857,7 +37857,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rejoin",
-        "img": "GITA/konami.png",
+        "img": "GITA/rejoin.png",
         "opts": {
             "game": [
                 "GITA"
@@ -37884,7 +37884,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Knight of rondo",
-        "img": "GITA/konami.png",
+        "img": "GITA/knight_of_rondo.png",
         "opts": {
             "game": [
                 "GITA"
@@ -37902,7 +37902,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Suisou no kujira",
-        "img": "GITA/konami.png",
+        "img": "GITA/suisou_no_kujira.png",
         "opts": {
             "game": [
                 "GITA"
@@ -37947,7 +37947,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Four Leaves",
-        "img": "GITA/konami.png",
+        "img": "GITA/four_leaves.png",
         "opts": {
             "game": [
                 "GITA"
@@ -38046,7 +38046,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Mixed nuts",
-        "img": "GITA/konami.png",
+        "img": "GITA/mixed_nuts.png",
         "opts": {
             "game": [
                 "GITA"
@@ -38073,7 +38073,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Horobi ni itaru ellampsis",
-        "img": "GITA/konami.png",
+        "img": "GITA/horobi_ni_itaru_ellampsis.png",
         "opts": {
             "game": [
                 "GITA"
@@ -38091,7 +38091,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "The Kingsroad",
-        "img": "GITA/konami.png",
+        "img": "GITA/the_kingsroad.png",
         "opts": {
             "game": [
                 "GITA"
@@ -38199,7 +38199,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Awakening Wings",
-        "img": "GITA/konami.png",
+        "img": "GITA/awakening_wings.png",
         "opts": {
             "game": [
                 "GITA"
@@ -38451,7 +38451,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ding Dong Bell",
-        "img": "GITA/konami.png",
+        "img": "GITA/ding_dong_bell.png",
         "opts": {
             "game": [
                 "GITA"
@@ -38550,7 +38550,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "800nm",
-        "img": "GITA/konami.png",
+        "img": "GITA/800nm.png",
         "opts": {
             "game": [
                 "GITA"
@@ -38685,7 +38685,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Otome ryouran mai sakihokore",
-        "img": "GITA/konami.png",
+        "img": "GITA/otome_ryouran_mai_sakihokore.png",
         "opts": {
             "game": [
                 "GITA"
@@ -38694,7 +38694,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sousei note",
-        "img": "GITA/konami.png",
+        "img": "GITA/sousei_note.png",
         "opts": {
             "game": [
                 "GITA"
@@ -38775,7 +38775,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sesshasesshasesshasessha",
-        "img": "GITA/konami.png",
+        "img": "GITA/sesshasesshasesshasessha.png",
         "opts": {
             "game": [
                 "GITA"
@@ -38784,7 +38784,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ranker killer girl",
-        "img": "GITA/konami.png",
+        "img": "GITA/ranker_killer_girl.png",
         "opts": {
             "game": [
                 "GITA"
@@ -38811,7 +38811,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Icicles",
-        "img": "GITA/konami.png",
+        "img": "GITA/icicles.png",
         "opts": {
             "game": [
                 "GITA"
@@ -38820,7 +38820,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Danmaku shinkou",
-        "img": "GITA/konami.png",
+        "img": "GITA/danmaku_shinkou.png",
         "opts": {
             "game": [
                 "GITA"
@@ -38865,7 +38865,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Senbonzakura",
-        "img": "GITA/konami.png",
+        "img": "GITA/senbonzakura.png",
         "opts": {
             "game": [
                 "GITA"
@@ -38874,7 +38874,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hurray hurray nekketsu cheer girl",
-        "img": "GITA/konami.png",
+        "img": "GITA/hurray_hurray_nekketsu_cheer_girl.png",
         "opts": {
             "game": [
                 "GITA"
@@ -38883,7 +38883,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Minarai tenshi to hoshifuri no oka",
-        "img": "GITA/konami.png",
+        "img": "GITA/minarai_tenshi_to_hoshifuri_no_oka.png",
         "opts": {
             "game": [
                 "GITA"
@@ -39018,7 +39018,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Pop music ron",
-        "img": "GITA/konami.png",
+        "img": "GITA/pop_music_ron.png",
         "opts": {
             "game": [
                 "GITA"
@@ -39171,7 +39171,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kurokami midareshi shura to narite",
-        "img": "GITA/konami.png",
+        "img": "GITA/kurokami_midareshi_shura_to_narite.png",
         "opts": {
             "game": [
                 "GITA"
@@ -39189,7 +39189,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Niji no saki ni nani ga aru ka",
-        "img": "GITA/konami.png",
+        "img": "GITA/niji_no_saki_ni_nani_ga_aru_ka.png",
         "opts": {
             "game": [
                 "GITA"
@@ -39198,7 +39198,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hanenaki shoujo uta",
-        "img": "GITA/konami.png",
+        "img": "GITA/hanenaki_shoujo_uta.png",
         "opts": {
             "game": [
                 "GITA"
@@ -39216,7 +39216,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hanamaru pippi wa yoiko dake",
-        "img": "GITA/konami.png",
+        "img": "GITA/hanamaru_pippi_wa_yoiko_dake.png",
         "opts": {
             "game": [
                 "GITA"
@@ -39279,7 +39279,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Yuusei overdose",
-        "img": "GITA/konami.png",
+        "img": "GITA/yuusei_overdose.png",
         "opts": {
             "game": [
                 "GITA"
@@ -39333,7 +39333,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Arena Deiporta",
-        "img": "GITA/konami.png",
+        "img": "GITA/arena_deiporta.png",
         "opts": {
             "game": [
                 "GITA"
@@ -39567,7 +39567,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Seiten Bon Voyage",
-        "img": "GITA/konami.png",
+        "img": "GITA/seiten_bon_voyage.png",
         "opts": {
             "game": [
                 "GITA"
@@ -39657,7 +39657,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Gekiatsu majiyaba cheer girl",
-        "img": "GITA/konami.png",
+        "img": "GITA/gekiatsu_majiyaba_cheer_girl.png",
         "opts": {
             "game": [
                 "GITA"
@@ -39675,7 +39675,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Six String Proof",
-        "img": "GITA/konami.png",
+        "img": "GITA/six_string_proof.png",
         "opts": {
             "game": [
                 "GITA"
@@ -39837,7 +39837,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Catharsis no tsuki",
-        "img": "GITA/konami.png",
+        "img": "GITA/catharsis_no_tsuki.png",
         "opts": {
             "game": [
                 "GITA"
@@ -39945,7 +39945,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "FRIENDSHIP",
-        "img": "GITA/konami.png",
+        "img": "GITA/friendship.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40017,7 +40017,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Honoo no Diargos",
-        "img": "GITA/konami.png",
+        "img": "GITA/honoo_no_diargos.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40062,7 +40062,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Prey",
-        "img": "GITA/konami.png",
+        "img": "GITA/prey.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40071,7 +40071,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tobikkiri no fuwaffuwa",
-        "img": "GITA/konami.png",
+        "img": "GITA/tobikkiri_no_fuwaffuwa.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40188,7 +40188,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "RePrise",
-        "img": "GITA/konami.png",
+        "img": "GITA/reprise.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40242,7 +40242,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Luminous days",
-        "img": "GITA/konami.png",
+        "img": "GITA/luminous_days.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40251,7 +40251,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Devil Fish Dumpling",
-        "img": "GITA/konami.png",
+        "img": "GITA/devil_fish_dumpling.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40260,7 +40260,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Trill auf G",
-        "img": "GITA/konami.png",
+        "img": "GITA/trill_auf_g.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40368,7 +40368,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Osenju meditation",
-        "img": "GITA/konami.png",
+        "img": "GITA/osenju_meditation.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40404,7 +40404,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Just Believe",
-        "img": "GITA/konami.png",
+        "img": "GITA/just_believe.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40422,7 +40422,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Destiny lovers",
-        "img": "GITA/konami.png",
+        "img": "GITA/destiny_lovers.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40584,7 +40584,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Setsuna trip",
-        "img": "GITA/konami.png",
+        "img": "GITA/setsuna_trip.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40593,7 +40593,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "HYDRA",
-        "img": "GITA/konami.png",
+        "img": "GITA/hydra.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40620,7 +40620,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Puberty Dysthymia",
-        "img": "GITA/konami.png",
+        "img": "GITA/puberty_dysthymia.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40656,7 +40656,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sky diver",
-        "img": "GITA/konami.png",
+        "img": "GITA/sky_diver.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40692,7 +40692,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rin ga naku",
-        "img": "GITA/konami.png",
+        "img": "GITA/rin_ga_naku.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40710,7 +40710,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "LIKE A VAMPIRE",
-        "img": "GITA/konami.png",
+        "img": "GITA/like_a_vampire.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40719,7 +40719,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Bitter escape",
-        "img": "GITA/konami.png",
+        "img": "GITA/bitter_escape.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40746,7 +40746,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Zanzou ni tsunagareta tsuioku no HIDEAWAY",
-        "img": "GITA/konami.png",
+        "img": "GITA/zanzou_ni_tsunagareta_tsuioku_no_hideaway.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40773,7 +40773,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Amanojaku",
-        "img": "GITA/konami.png",
+        "img": "GITA/amanojaku.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40881,7 +40881,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rin to shite saku hana no gotoku",
-        "img": "GITA/konami.png",
+        "img": "GITA/rin_to_shite_saku_hana_no_gotoku.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40890,7 +40890,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Cleopatrysm",
-        "img": "GITA/konami.png",
+        "img": "GITA/cleopatrysm.png",
         "opts": {
             "game": [
                 "GITA"
@@ -40899,7 +40899,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kemono no ouja Meumeu",
-        "img": "GITA/konami.png",
+        "img": "GITA/kemono_no_ouja_meumeu.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41025,7 +41025,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Empathetic",
-        "img": "GITA/konami.png",
+        "img": "GITA/empathetic.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41151,7 +41151,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Vampire Killer",
-        "img": "GITA/konami.png",
+        "img": "GITA/vampire_killer.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41169,7 +41169,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chocolate smile",
-        "img": "GITA/konami.png",
+        "img": "GITA/chocolate_smile.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41178,7 +41178,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ETERNAL BLAZE",
-        "img": "GITA/konami.png",
+        "img": "GITA/eternal_blaze.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41187,7 +41187,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rensen ryouran",
-        "img": "GITA/konami.png",
+        "img": "GITA/rensen_ryouran.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41214,7 +41214,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "THE LAST OF FIREFACE",
-        "img": "GITA/konami.png",
+        "img": "GITA/the_last_of_fireface.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41241,7 +41241,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "KHAMEN BREAK",
-        "img": "GITA/konami.png",
+        "img": "GITA/khamen_break.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41259,7 +41259,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tokai seifuku Girls",
-        "img": "GITA/konami.png",
+        "img": "GITA/tokai_seifuku_girls.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41286,7 +41286,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ai wa fushichou no you ni",
-        "img": "GITA/konami.png",
+        "img": "GITA/ai_wa_fushichou_no_you_ni.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41340,7 +41340,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kilonova",
-        "img": "GITA/konami.png",
+        "img": "GITA/kilonova.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41349,7 +41349,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Riot of Color",
-        "img": "GITA/konami.png",
+        "img": "GITA/riot_of_color.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41358,7 +41358,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Perfect eater",
-        "img": "GITA/konami.png",
+        "img": "GITA/perfect_eater.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41403,7 +41403,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Dragontail Butterfly",
-        "img": "GITA/konami.png",
+        "img": "GITA/dragontail_butterfly.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41502,7 +41502,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kiken na kajitsu",
-        "img": "GITA/konami.png",
+        "img": "GITA/kiken_na_kajitsu.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41664,7 +41664,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kiyarora eisei no kiseki",
-        "img": "GITA/konami.png",
+        "img": "GITA/kiyarora_eisei_no_kiseki.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41700,7 +41700,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Koi to King Kong",
-        "img": "GITA/konami.png",
+        "img": "GITA/koi_to_king_kong.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41772,7 +41772,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Gensoukei sekaishuufuku shoujo",
-        "img": "GITA/konami.png",
+        "img": "GITA/gensoukei_sekaishuufuku_shoujo.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41826,7 +41826,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Juudan wa kai wo uchinuite",
-        "img": "GITA/konami.png",
+        "img": "GITA/juudan_wa_kai_wo_uchinuite.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41835,7 +41835,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "STULTI",
-        "img": "GITA/konami.png",
+        "img": "GITA/stulti.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41934,7 +41934,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fireball",
-        "img": "GITA/konami.png",
+        "img": "GITA/fireball.png",
         "opts": {
             "game": [
                 "GITA"
@@ -41997,7 +41997,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Oboro",
-        "img": "GITA/konami.png",
+        "img": "GITA/oboro.png",
         "opts": {
             "game": [
                 "GITA"
@@ -42006,7 +42006,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Shinobi Shinonome",
-        "img": "GITA/konami.png",
+        "img": "GITA/shinobi_shinonome.png",
         "opts": {
             "game": [
                 "GITA"
@@ -42096,7 +42096,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kokuu to koumyou no discourse",
-        "img": "GITA/konami.png",
+        "img": "GITA/kokuu_to_koumyou_no_discourse.png",
         "opts": {
             "game": [
                 "GITA"
@@ -42177,7 +42177,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Takaramono",
-        "img": "GITA/konami.png",
+        "img": "GITA/takaramono.png",
         "opts": {
             "game": [
                 "GITA"
@@ -42285,7 +42285,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Elysion ex machina",
-        "img": "GITA/konami.png",
+        "img": "GITA/elysion_ex_machina.png",
         "opts": {
             "game": [
                 "GITA"
@@ -42312,7 +42312,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DUAL STRIKER",
-        "img": "GITA/konami.png",
+        "img": "GITA/dual_striker.png",
         "opts": {
             "game": [
                 "GITA"
@@ -42465,7 +42465,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DRAGON KILLER",
-        "img": "GITA/konami.png",
+        "img": "GITA/dragon_killer.png",
         "opts": {
             "game": [
                 "GITA"
@@ -42492,7 +42492,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Polaris",
-        "img": "GITA/konami.png",
+        "img": "GITA/polaris.png",
         "opts": {
             "game": [
                 "GITA"
@@ -42663,7 +42663,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ai to yuuki no Sandogasa Ponta",
-        "img": "GITA/konami.png",
+        "img": "GITA/ai_to_yuuki_no_sandogasa_ponta.png",
         "opts": {
             "game": [
                 "GITA"
@@ -42681,7 +42681,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Stargazer",
-        "img": "GITA/konami.png",
+        "img": "GITA/stargazer.png",
         "opts": {
             "game": [
                 "GITA"
@@ -42708,7 +42708,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kouen",
-        "img": "GITA/konami.png",
+        "img": "GITA/kouen.png",
         "opts": {
             "game": [
                 "GITA"
@@ -42789,7 +42789,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Itetsu no pride",
-        "img": "GITA/konami.png",
+        "img": "GITA/itetsu_no_pride.png",
         "opts": {
             "game": [
                 "GITA"
@@ -42816,7 +42816,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Saishuukai STORY",
-        "img": "GITA/konami.png",
+        "img": "GITA/saishuukai_story.png",
         "opts": {
             "game": [
                 "GITA"
@@ -42825,7 +42825,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Jailbreak",
-        "img": "GITA/konami.png",
+        "img": "GITA/jailbreak.png",
         "opts": {
             "game": [
                 "GITA"
@@ -42996,7 +42996,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sousei luminescence",
-        "img": "GITA/konami.png",
+        "img": "GITA/sousei_luminescence.png",
         "opts": {
             "game": [
                 "GITA"
@@ -43077,7 +43077,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "PUNISHER",
-        "img": "GITA/konami.png",
+        "img": "GITA/punisher.png",
         "opts": {
             "game": [
                 "GITA"
@@ -43131,7 +43131,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Flutter genshou no tenmatsu to tan itsu shikousei no kanjouron",
-        "img": "GITA/konami.png",
+        "img": "GITA/flutter_genshou_no_tenmatsu_to_tan_itsu_shikousei_no_kanjouron.png",
         "opts": {
             "game": [
                 "GITA"
@@ -43185,7 +43185,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tanpopo",
-        "img": "GITA/konami.png",
+        "img": "GITA/tanpopo.png",
         "opts": {
             "game": [
                 "GITA"
@@ -43374,7 +43374,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tsubomi (Megumi Tatsumi featured by Hiroaki Sano)",
-        "img": "GITA/konami.png",
+        "img": "GITA/tsubomi_(megumi_tatsumi_featured_by_hiroaki_sano).png",
         "opts": {
             "game": [
                 "GITA"
@@ -43383,7 +43383,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Summer Holiday",
-        "img": "GITA/konami.png",
+        "img": "GITA/summer_holiday.png",
         "opts": {
             "game": [
                 "GITA"
@@ -43473,7 +43473,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Shounen ripples",
-        "img": "GITA/konami.png",
+        "img": "GITA/shounen_ripples.png",
         "opts": {
             "game": [
                 "GITA"
@@ -43500,7 +43500,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chikuwa parfait da yo CKP (Yvya Remix)",
-        "img": "GITA/konami.png",
+        "img": "GITA/chikuwa_parfait_da_yo_ckp_(yvya_remix).png",
         "opts": {
             "game": [
                 "GITA"
@@ -43527,7 +43527,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Drizzly Venom",
-        "img": "GITA/konami.png",
+        "img": "GITA/drizzly_venom.png",
         "opts": {
             "game": [
                 "GITA"
@@ -43626,7 +43626,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "AREA 51",
-        "img": "GITA/konami.png",
+        "img": "GITA/area_51.png",
         "opts": {
             "game": [
                 "GITA"
@@ -43635,7 +43635,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Life is beautiful",
-        "img": "GITA/konami.png",
+        "img": "GITA/life_is_beautiful.png",
         "opts": {
             "game": [
                 "GITA"
@@ -43752,7 +43752,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kakumei passionate",
-        "img": "GITA/konami.png",
+        "img": "GITA/kakumei_passionate.png",
         "opts": {
             "game": [
                 "GITA"
@@ -43788,7 +43788,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hashire melonpan",
-        "img": "GITA/konami.png",
+        "img": "GITA/hashire_melonpan.png",
         "opts": {
             "game": [
                 "GITA"
@@ -43959,7 +43959,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hexer",
-        "img": "GITA/konami.png",
+        "img": "GITA/hexer.png",
         "opts": {
             "game": [
                 "GITA"
@@ -43968,7 +43968,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Shikkoku no special princess sundae",
-        "img": "GITA/konami.png",
+        "img": "GITA/shikkoku_no_special_princess_sundae.png",
         "opts": {
             "game": [
                 "GITA"
@@ -43986,7 +43986,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "GIGA BREAK",
-        "img": "GITA/konami.png",
+        "img": "GITA/giga_break.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44004,7 +44004,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Catapulted Arch",
-        "img": "GITA/konami.png",
+        "img": "GITA/catapulted_arch.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44184,7 +44184,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Baby step",
-        "img": "GITA/konami.png",
+        "img": "GITA/baby_step.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44229,7 +44229,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "O JIYA",
-        "img": "GITA/konami.png",
+        "img": "GITA/o_jiya.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44247,7 +44247,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Jetcoaster Windy",
-        "img": "GITA/konami.png",
+        "img": "GITA/jetcoaster_windy.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44337,7 +44337,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Midnight WAR",
-        "img": "GITA/konami.png",
+        "img": "GITA/midnight_war.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44364,7 +44364,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sekibakutaru sekai no shuumatsu wa",
-        "img": "GITA/konami.png",
+        "img": "GITA/sekibakutaru_sekai_no_shuumatsu_wa.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44400,7 +44400,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "I LOVE COSMOS",
-        "img": "GITA/konami.png",
+        "img": "GITA/i_love_cosmos.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44481,7 +44481,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Neu",
-        "img": "GITA/konami.png",
+        "img": "GITA/neu.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44517,7 +44517,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Konya wa pajama party",
-        "img": "GITA/konami.png",
+        "img": "GITA/konya_wa_pajama_party.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44526,7 +44526,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "In The Breeze",
-        "img": "GITA/konami.png",
+        "img": "GITA/in_the_breeze.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44625,7 +44625,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fuurin hanabi",
-        "img": "GITA/konami.png",
+        "img": "GITA/fuurin_hanabi.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44634,7 +44634,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Nijiiro no hana",
-        "img": "GITA/konami.png",
+        "img": "GITA/nijiiro_no_hana.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44661,7 +44661,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Charles",
-        "img": "GITA/konami.png",
+        "img": "GITA/charles.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44679,7 +44679,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Link up",
-        "img": "GITA/konami.png",
+        "img": "GITA/link_up.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44805,7 +44805,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Engraved Mark",
-        "img": "GITA/konami.png",
+        "img": "GITA/engraved_mark.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44877,7 +44877,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Plum",
-        "img": "GITA/konami.png",
+        "img": "GITA/plum.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44886,7 +44886,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Joyful",
-        "img": "GITA/konami.png",
+        "img": "GITA/joyful.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44904,7 +44904,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Mind game",
-        "img": "GITA/konami.png",
+        "img": "GITA/mind_game.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44913,7 +44913,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tada kimi ni hare",
-        "img": "GITA/konami.png",
+        "img": "GITA/tada_kimi_ni_hare.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44931,7 +44931,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Haunted maid lunch",
-        "img": "GITA/konami.png",
+        "img": "GITA/haunted_maid_lunch.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44958,7 +44958,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Across the nightmare",
-        "img": "GITA/konami.png",
+        "img": "GITA/across_the_nightmare.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44976,7 +44976,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chronos",
-        "img": "GITA/konami.png",
+        "img": "GITA/chronos.png",
         "opts": {
             "game": [
                 "GITA"
@@ -44985,7 +44985,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Netsujou no zapadeado",
-        "img": "GITA/konami.png",
+        "img": "GITA/netsujou_no_zapadeado.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45012,7 +45012,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Koko kara yoroshiku daisakusen 143",
-        "img": "GITA/konami.png",
+        "img": "GITA/koko_kara_yoroshiku_daisakusen_143.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45030,7 +45030,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Russian Caravan Rhapsody",
-        "img": "GITA/konami.png",
+        "img": "GITA/russian_caravan_rhapsody.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45084,7 +45084,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Shining Wizard",
-        "img": "GITA/konami.png",
+        "img": "GITA/shining_wizard.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45246,7 +45246,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Houkago stride",
-        "img": "GITA/konami.png",
+        "img": "GITA/houkago_stride.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45318,7 +45318,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Starlight Parade",
-        "img": "GITA/konami.png",
+        "img": "GITA/starlight_parade.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45363,7 +45363,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Mangekyou",
-        "img": "GITA/konami.png",
+        "img": "GITA/mangekyou.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45390,7 +45390,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Nekozamurai no gyakushuu",
-        "img": "GITA/konami.png",
+        "img": "GITA/nekozamurai_no_gyakushuu.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45408,7 +45408,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Arousing",
-        "img": "GITA/konami.png",
+        "img": "GITA/arousing.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45624,7 +45624,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Quilt",
-        "img": "GITA/konami.png",
+        "img": "GITA/quilt.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45633,7 +45633,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Pokapoka retro road",
-        "img": "GITA/konami.png",
+        "img": "GITA/pokapoka_retro_road.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45687,7 +45687,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hoshifuri",
-        "img": "GITA/konami.png",
+        "img": "GITA/hoshifuri.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45714,7 +45714,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Rikka ni kuchizuke",
-        "img": "GITA/konami.png",
+        "img": "GITA/rikka_ni_kuchizuke.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45759,7 +45759,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Stella Sinistra",
-        "img": "GITA/konami.png",
+        "img": "GITA/stella_sinistra.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45768,7 +45768,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fly with me",
-        "img": "GITA/konami.png",
+        "img": "GITA/fly_with_me.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45795,7 +45795,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fukasetsufukasetsuten",
-        "img": "GITA/konami.png",
+        "img": "GITA/fukasetsufukasetsuten.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45822,7 +45822,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Lead Me",
-        "img": "GITA/konami.png",
+        "img": "GITA/lead_me.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45921,7 +45921,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Aftermath",
-        "img": "GITA/konami.png",
+        "img": "GITA/aftermath.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45930,7 +45930,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Synchro fish",
-        "img": "GITA/konami.png",
+        "img": "GITA/synchro_fish.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45939,7 +45939,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hoozukiteido ni wa akai touhatsu",
-        "img": "GITA/konami.png",
+        "img": "GITA/hoozukiteido_ni_wa_akai_touhatsu.png",
         "opts": {
             "game": [
                 "GITA"
@@ -45948,7 +45948,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ruijou no karma",
-        "img": "GITA/konami.png",
+        "img": "GITA/ruijou_no_karma.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46011,7 +46011,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chikuwa parfait da yo CKP",
-        "img": "GITA/konami.png",
+        "img": "GITA/chikuwa_parfait_da_yo_ckp.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46047,7 +46047,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Murasakibana",
-        "img": "GITA/konami.png",
+        "img": "GITA/murasakibana.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46101,7 +46101,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Deadball de homerun",
-        "img": "GITA/konami.png",
+        "img": "GITA/deadball_de_homerun.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46119,7 +46119,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kyouhatsuten wo nadete tsuzuregumo no hokorobi gotaihokufuu ni chirite ato mo nashi",
-        "img": "GITA/konami.png",
+        "img": "GITA/kyouhatsuten_wo_nadete_tsuzuregumo_no_hokorobi_gotaihokufuu_ni_chirite_ato_mo_nashi.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46137,7 +46137,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BambooSword Girl",
-        "img": "GITA/konami.png",
+        "img": "GITA/bamboosword_girl.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46236,7 +46236,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Idola",
-        "img": "GITA/konami.png",
+        "img": "GITA/idola.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46245,7 +46245,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Never Look Back in Sorrow",
-        "img": "GITA/konami.png",
+        "img": "GITA/never_look_back_in_sorrow.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46281,7 +46281,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sweets wa tomaranai",
-        "img": "GITA/konami.png",
+        "img": "GITA/sweets_wa_tomaranai.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46290,7 +46290,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chucchu Machu Picchu",
-        "img": "GITA/konami.png",
+        "img": "GITA/chucchu_machu_picchu.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46398,7 +46398,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Uta no tsubasa",
-        "img": "GITA/konami.png",
+        "img": "GITA/uta_no_tsubasa.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46506,7 +46506,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Cassis",
-        "img": "GITA/konami.png",
+        "img": "GITA/cassis.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46515,7 +46515,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ANEMONE",
-        "img": "GITA/konami.png",
+        "img": "GITA/anemone.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46533,7 +46533,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Concertino in Blue",
-        "img": "GITA/konami.png",
+        "img": "GITA/concertino_in_blue.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46614,7 +46614,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "MODEL FT2 Miracle Version",
-        "img": "GITA/konami.png",
+        "img": "GITA/model_ft2_miracle_version.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46659,7 +46659,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "White Stream",
-        "img": "GITA/konami.png",
+        "img": "GITA/white_stream.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46695,7 +46695,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Snow Falcon",
-        "img": "GITA/konami.png",
+        "img": "GITA/snow_falcon.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46731,7 +46731,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Chihou sousei chikuwactics",
-        "img": "GITA/konami.png",
+        "img": "GITA/chihou_sousei_chikuwactics.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46758,7 +46758,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kunshi ayauku mo chikou yore",
-        "img": "GITA/konami.png",
+        "img": "GITA/kunshi_ayauku_mo_chikou_yore.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46794,7 +46794,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kanzen muketsu no mujuuryoku dive",
-        "img": "GITA/konami.png",
+        "img": "GITA/kanzen_muketsu_no_mujuuryoku_dive.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46875,7 +46875,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "DOUBLE IMPACT",
-        "img": "GITA/konami.png",
+        "img": "GITA/double_impact.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46884,7 +46884,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kohaku no kuchizuke",
-        "img": "GITA/konami.png",
+        "img": "GITA/kohaku_no_kuchizuke.png",
         "opts": {
             "game": [
                 "GITA"
@@ -46920,7 +46920,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "SUPER SUMMER SALE",
-        "img": "GITA/konami.png",
+        "img": "GITA/super_summer_sale.png",
         "opts": {
             "game": [
                 "GITA"
@@ -47037,7 +47037,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kirisute gomen",
-        "img": "GITA/konami.png",
+        "img": "GITA/kirisute_gomen.png",
         "opts": {
             "game": [
                 "GITA"
@@ -47082,7 +47082,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Shigan no zaregoto",
-        "img": "GITA/konami.png",
+        "img": "GITA/shigan_no_zaregoto.png",
         "opts": {
             "game": [
                 "GITA"
@@ -47163,7 +47163,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Shiawase no katachi",
-        "img": "GITA/konami.png",
+        "img": "GITA/shiawase_no_katachi.png",
         "opts": {
             "game": [
                 "GITA"
@@ -47343,7 +47343,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Dragon Blade",
-        "img": "GITA/konami.png",
+        "img": "GITA/dragon_blade.png",
         "opts": {
             "game": [
                 "GITA"
@@ -47424,7 +47424,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Super sentou Babanburn",
-        "img": "GITA/konami.png",
+        "img": "GITA/super_sentou_babanburn.png",
         "opts": {
             "game": [
                 "GITA"
@@ -47514,7 +47514,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Agnus Dei",
-        "img": "GITA/konami.png",
+        "img": "GITA/agnus_dei.png",
         "opts": {
             "game": [
                 "GITA"
@@ -47541,7 +47541,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Right on time (Ryu Remix)",
-        "img": "GITA/konami.png",
+        "img": "GITA/right_on_time_(ryu_remix).png",
         "opts": {
             "game": [
                 "GITA"
@@ -47559,7 +47559,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Gita dora jubeat dainatsumatsuri no theme",
-        "img": "GITA/konami.png",
+        "img": "GITA/gita_dora_jubeat_dainatsumatsuri_no_theme.png",
         "opts": {
             "game": [
                 "GITA"
@@ -47586,7 +47586,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Onigiri disco",
-        "img": "GITA/konami.png",
+        "img": "GITA/onigiri_disco.png",
         "opts": {
             "game": [
                 "GITA"
@@ -47631,7 +47631,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Guren no honoo",
-        "img": "GITA/konami.png",
+        "img": "GITA/guren_no_honoo.png",
         "opts": {
             "game": [
                 "GITA"
@@ -47703,7 +47703,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hakoniwa no etude",
-        "img": "GITA/konami.png",
+        "img": "GITA/hakoniwa_no_etude.png",
         "opts": {
             "game": [
                 "GITA"
@@ -47721,7 +47721,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sorairo days",
-        "img": "GITA/konami.png",
+        "img": "GITA/sorairo_days.png",
         "opts": {
             "game": [
                 "GITA"
